@@ -2,27 +2,27 @@
 
 I started writing Occam[1] with a view to providing an improved front end for existing theorem provers.
 There turned out to be little interest in this from the wider community, however, but by the time I had come to this conclusion I was already committed to creating a system of my own for formal reasoning.
-The reason for this is that I believed that I had found an alternative understanding of mathematics and logic in particular that was not founded on what might be called set theory plus first order logic, not was it founded on type theory. 
-Rather it is founded on tenets, what I call the four elephants.
-Before going any further I should add that there is nothing heretical or even original in adopting any of these elephants.
-Much of the thinking predates type theory, for example, and some of it predates even set theory.
+The reason for this is that I believed that I had found an alternative understanding of mathematics and logic that was not founded on what might be called set theory plus first order logic, not was it founded on type theory. 
+Rather it is based on tenets, what I call the four elephants.
+By the way, before going any further I should mention that there is nothing heretical or even particularly original in adopting any of this work.
+Much of it predates type theory, for example, and some of it predates set theory.
 So, the four elephants:
 
-1. The intuitionistic viewpoint. This goes back to Brouwer[2].
-2. Natural Deducation, which is attributed to Gentzen.
+1. The intuitionistic viewpoint, which goes back to Brouwer[2].
+2. Natural Deducation, due to Gentzen.
 
-Before going any further I will remark that intuitionstic thinking and natural deductive reasoning together represent the most significant advance in formal reasoning since the greeks invented logic.
-Intuitionsism frees us from the tyranny of classical logic and natural deduction in fact separates reasoning from logic altogether.
-The reason that both approaches are no more widely praised is that both are so ubiquitous as to be almost transparent.
+Before going any further I will remark that intuitionstic thinking and natural deductive reasoning together represent the most significant advance in our understanding of reasoning since the greeks invented logic.
+Intuitionsism frees us from the tyranny of classical thinking and natural deduction in fact separates reasoning from logic altogether.
+The reason that both approaches are not more widely recognised might be that both are so ubiquitous as to be almost transparent.
 We think, communicate and argue intuitionistically, for example, just as much as we do classically;
-and natural deduction is so commonplace in the sciences, computer science in particular, htat is goes completely unnoticed.
-Therefore if this book does nothing else for the otherwise disinterested reader, perhaps it will have given them some inkling of these approaches.
-It is worth repeating that in my opinion intuitionism and natural deduction represent the most significant advance in formal logic since the greeks invented logic.
+and natural deduction is so commonplace in the sciences, computer science in particular, that is goes completely unnoticed.
+Therefore if this book does nothing more for the otherwise disinterested reader than make them aware of these approaches then it would at least have acheived something.
+Indeed I am going to repeat that in my opinion intuitionism and natural deduction together represent the most significant advance in our understanding of reasoning since the greeks invented logic.
 
 Moving on:
 
 3. Structural linguistics. In particular the work of Frege.
-4. What might be termed modern grammars, specifically BNF, regular expresions and Unicode. The first two can be attributed to John Backus and John Kleene, respectively.
+4. What might be termed modern grammars, specifically BNF, regular expresions and Unicode. The first two can be attributed to John Backus and Stephen Cole Kleene, respectively.
 
 ---
 
