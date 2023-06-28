@@ -25,9 +25,31 @@ Moving on:
 4. What might be termed modern grammars, specifically BNF, regular expresions and Unicode. 
 The first two can be attributed to John Backus and Stephen Cole Kleene, respectively.
 
-Each of these four elephants has a succeeding chapter devoted to it.
-Because intuitionism is so generally applicable, however, and because it suffuses pretty much all of what follows, it is worth expanding on it further here.
-So, consider the 
+Each of these four elephants has a succeeding chapter devoted to it,
+but because intuitionism is so general, and because it suffuses pretty much all of what follows, it is worth expanding on it further now.
+So, consider the following list of questions.
+I claim that they are all answered in what follows.
+Some may find this surprising or even shocking and some might accuse me of intellectual hubris, or worse, but we shall see.
+
+1. What is truth?
+2. What is mathematics?
+3. What is logic?
+4. What is meaning. 
+5. What is a number. 
+
+By what is meaning I mean that if I were to say to you that I did not understand what you meant, what would I be trying to get across? 
+And never mind just what is a number. 
+I could ask what is a natural number, or a real number. 
+
+The reason why claiming to have answers to these questions, and indeed many more like them, may seem almost maniacal is their general or sometimes even metaphysical nature. 
+What is logic? 
+You might just as well ask what is art.
+No two logicians will agree on a preicse definition of logic and yet here I am claiming that I know precisely what it is!
+
+I will find a way out of this conundrum by way of an example. 
+Consider the question what is justice.
+Of course there is a branch of philosophy concerned with this question, namely ethics, just as there is a branch of philosophy concerned with the question of what is art, namely aesthetics.
+But let us move away from philosophising for a moment and look at the question of justice from a more practical.
 
 ---
 
