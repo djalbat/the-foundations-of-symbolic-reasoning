@@ -1,23 +1,23 @@
 # The Foundations of Symbolic Reasoning
 
 I started writing Occam[^1] with a view to providing an improved front end for existing theorem provers.
-There turned out to be little interest in this from the wider community, however, but by the time I had come to this conclusion I was already committed to creating a system of my own for formal reasoning.
-The reason for this is that I believed that I had found an alternative understanding of mathematics and logic that was not founded on what might be called set theory plus first order logic, not was it founded on type theory. 
-Rather it is based on tenets, what I call the four elephants.
-By the way, before going any further I should mention that there is nothing heretical or even particularly original in adopting any of this work.
-Much of it predates type theory, for example, and some of it predates set theory.
+There turned out to be little interest in this from the wider community, however, but by the time I had come to this conclusion I was already committed to creating a formal reasoning system of my own.
+The reason was that I believed I had found an alternative understanding of mathematics and logic in particular that was not founded on what is usually referred to as set theory plus first order logic, nor was it founded on some type theory. 
+Rather it is based on the following approaches, what I call the four elephants.
+By the way, I should mention that there is nothing heretical or even original in adopting any of these approaches.
+Much of the thinking behind them predates type theory, for example, and some of it predates set theory.
 So, the four elephants:
 
 1. The intuitionistic viewpoint, which goes back to Brouwer[^2].
 2. Natural Deducation, due to Gentzen.
 
-Before going any further I will remark that intuitionstic thinking and natural deductive reasoning together represent the most significant advance in our understanding of reasoning since the greeks invented logic.
-Intuitionsism frees us from the tyranny of classical thinking and natural deduction in fact separates reasoning from logic altogether.
-The reason that both approaches are not more widely recognised might be that both are so ubiquitous as to be almost transparent.
+Before going any further I will remark that in my opinion intuitionstic thinking and natural deductive reasoning together constitute the most significant advance in our understanding of reasoning since the greeks invented logic.
+Intuitionsism frees us from the tyranny of classical thinking; and natural deduction separates reasoning from logic altogether.
+The reason that these approaches are not more widely recognised might be that both are so ubiquitous as to be almost transparent.
 We think, communicate and argue intuitionistically, for example, just as much as we do classically;
-and natural deduction is so commonplace in the sciences, computer science in particular, that is goes completely unnoticed.
-Therefore if this book does nothing more for the otherwise disinterested reader than make them aware of these approaches then it would at least have acheived something.
-Indeed I am going to repeat that in my opinion intuitionism and natural deduction together represent the most significant advance in our understanding of reasoning since the greeks invented logic.
+and natural deduction is so commonplace in the sciences, computer science in particular, that it seems to go completely unnoticed.
+Therefore if this book does nothing more for the otherwise disinterested reader than to make them aware of these approaches then it has at least have acheived something.
+Indeed I am going to repeat that in my opinion intuitionism and natural deduction together constitute the most significant advance in our understanding of reasoning since the greeks invented logic.
 
 Moving on:
 
@@ -29,29 +29,43 @@ Each of these four elephants has a succeeding chapter devoted to it,
 but because intuitionism is so general, and because it suffuses pretty much all of what follows, it is worth expanding on it further now.
 So, consider the following list of questions.
 I claim that they are all answered in what follows.
-Some may find this surprising or even shocking and some might accuse me of intellectual hubris, or worse, but we shall see.
+Some may find this surprising or even shocking and some might accuse me of intellectual hubris, or worse, for making such a claim.
+But we shall see.
 
 1. What is truth?
 2. What is mathematics?
 3. What is logic?
-4. What is meaning. 
-5. What is a number. 
+4. What is meaning? 
+5. What is a number? 
 
-By what is meaning I mean that if I were to say to you that I did not understand what you meant, what would I be trying to get across? 
+By asking what is meaning I mean that if I were to say to you that I did not understand what you meant, what would I be trying to get across? 
 And never mind just what is a number. 
 I could ask what is a natural number, or a real number. 
+The reason why claiming to have answers to these questions, and indeed others like them, may seem almost maniacal is their general or sometimes even metaphysical nature. 
+For example, asking what is logic.
+You might say that I might just as well ask what is art.
+No two logicians will agree on a preicse definition of logic after all, and yet here I am claiming that I know precisely what it is!
 
-The reason why claiming to have answers to these questions, and indeed many more like them, may seem almost maniacal is their general or sometimes even metaphysical nature. 
-What is logic? 
-You might just as well ask what is art.
-No two logicians will agree on a preicse definition of logic and yet here I am claiming that I know precisely what it is!
-
-I will find a way out of this conundrum by way of an example. 
-Consider the question what is justice.
-Of course there is a branch of philosophy concerned with this question, namely ethics, just as there is a branch of philosophy concerned with the question of what is art, namely aesthetics.
-But let us move away from philosophising for a moment and look at the question of justice from a more practical.
-
----
+I will get out of this conundrum by way of an example. 
+Consider the question of what is justice.
+There is a branch of philosophy concerned with this question, namely ethics, just as there is a branch of philosophy concerned with the question of what is art, namely aesthetics.
+But let us move away from philosophising for a moment and look at the question of what is justice from a more practical standpoint.
+Whatever country you live in you will have various laws, persons, institutions, etc that constitute what might be called the country's justice system.
+The law in particular encompasses divers statutes, processes, precedents, etc the adherence to which we think of as justice.
+Indeed, we talk of justice being done; or miscarriages of justice; or the wheels of justice, the latter almost as if justice were a physical thing.
+Perhaps not physical, but it is certainly tangible and recognisable.
+And although it is not possible to define justice precisely, no doubt partly because of the vagaries of interpreting the law, it is still defintely a thing, for want of a better way of putting it.
+In fact a better way of putting it would be to call it a concept.
+This concept is not universaly, and certainly not metaphysical.
+If you were to move to a different country, for example, then the justice system and therefore the concept of justice would differ, perhaps markedly.
+This is thinking intutitionistically.
+Thus we shy away from thinking metaphysically and instead root ourselves in the practicalities.
+In a nutshell to think intuitionistically is, when considering *definitive* questions, to eschew definitive answers and instead offer *definite* ones.
+In doing so what we lose in generality we gain in useability.
+There is say in mathematics that god invented the natural numbers whereas all else was invented by man.
+Brouwer would have strenuously refuted this.
+You can *define* natural numbers in Occam, along with all the other numbers.
+This definition may not suit everyone, but it more than suffices.
 
 [^1]: The word Occam is used somewhat mebulously here.
 It covers a suite of software and services together with the the theory that underlines them.
