@@ -39,33 +39,37 @@ But we shall see.
 5. What is a number? 
 
 By asking what is meaning I mean that if I were to say to you that I did not understand what you meant, what would I be trying to get across? 
-And never mind just what is a number. 
+And never mind just what is a number.
 I could ask what is a natural number, or a real number. 
-The reason why claiming to have answers to these questions, and indeed others like them, may seem almost maniacal is their general or sometimes even metaphysical nature. 
+The reason why claiming to have answers to these questions and indeed others like them may seem almost maniacal is their general or sometimes arguably metaphysical nature. 
 For example, asking what is logic.
-You might say that I might just as well ask what is art.
+You might counter that I might just as well ask what is art.
 No two logicians will agree on a preicse definition of logic after all, and yet here I am claiming that I know precisely what it is!
 
 I will get out of this conundrum by way of an example. 
 Consider the question of what is justice.
 There is a branch of philosophy concerned with this question, namely ethics, just as there is a branch of philosophy concerned with the question of what is art, namely aesthetics.
 But let us move away from philosophising for a moment and look at the question of what is justice from a more practical standpoint.
-Whatever country you live in you will have various laws, persons, institutions, etc that constitute what might be called the country's justice system.
-The law in particular encompasses divers statutes, processes, precedents, etc the adherence to which we think of as justice.
+
+Whatever country you live in will have various laws, persons, institutions, etc that constitute its justice system.
+The law in particular encompasses divers statutes, processes, precedents, etc, adherence to which we think of as justice.
 Indeed, we talk of justice being done; or miscarriages of justice; or the wheels of justice, the latter almost as if justice were a physical thing.
-Perhaps not physical, but it is certainly tangible and recognisable.
+Perhaps not a physical thing, but it is certainly mostly tangible and recognisable.
 And although it is not possible to define justice precisely, no doubt partly because of the vagaries of interpreting the law, it is still defintely a thing, for want of a better way of putting it.
+
 In fact a better way of putting it would be to call it a concept.
-This concept is not universaly, and certainly not metaphysical.
+This concept is not universal and certainly not metaphysical.
 If you were to move to a different country, for example, then the justice system and therefore the concept of justice would differ, perhaps markedly.
-This is thinking intutitionistically.
-Thus we shy away from thinking metaphysically and instead root ourselves in the practicalities.
-In a nutshell to think intuitionistically is, when considering *definitive* questions, to eschew definitive answers and instead offer *definite* ones.
+To think of justice in this way is to think intutitionistically.
+We shy away from the metaphysical and instead root ourselves in the practicalities.
+Or, to put it another way, when considering *definitive* questions we eschew definitive answers and instead offer *definite* ones.
 In doing so what we lose in generality we gain in useability.
-There is say in mathematics that god invented the natural numbers whereas all else was invented by man.
+
+There is a saying in mathematics that god invented the natural numbers whereas all else was invented by man.
 Brouwer would have strenuously refuted this.
 You can *define* natural numbers in Occam, along with all the other numbers.
 This definition may not suit everyone, but it more than suffices.
+Again, when thinking intuitionistically we address the *definitive* questions by offering only *definite* answers.
 
 [^1]: The word Occam is used somewhat mebulously here.
 It covers a suite of software and services together with the the theory that underlines them.
