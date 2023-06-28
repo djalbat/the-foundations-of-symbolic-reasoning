@@ -21,14 +21,15 @@ Indeed I am going to repeat that in my opinion intuitionism and natural deductio
 
 Moving on:
 
-3. Structural linguistics. In particular the work of Frege.
+3. Structural linguistics, in particular the work of Frege.
 4. What might be termed modern grammars, specifically BNF, regular expresions and Unicode. The first two can be attributed to John Backus and Stephen Cole Kleene, respectively.
 
 ---
 
-1. Occam is a somewhat nebulus term, it covers a suite of software and services together with the the theory that underlines them.
+1. The word Occam is used somewhat mebulously here.
+It covers a suite of software and services together with the the theory that underlines them.
 This book is an apologia for the latter and there is a companion book, called The Occam User Manual, that covers the former.
 
 2. Tom Koerner in his excellent book Fourier Analysis wrote that mathematicians make remarkably incompetent historians.
-This is not primarily a mathematics book but not is it a history book.
-I atttibute the occasional idea or theory to a particular person as is often done but this is meant to be no more than a pointer for the historically curious.
+This is not primarily a mathematics book but nor is it a history book.
+I atttibute the occasional idea or theory to a particular person, as is often done, but this is meant to be no more than a pointer for the historically curious.
