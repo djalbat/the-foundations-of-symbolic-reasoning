@@ -13,10 +13,10 @@ So, the four elephants:
 
 Before going any further I will remark that in my opinion intuitionism and natural deduction together constitute the most significant advance in formal reasoning since the greeks invented logic.
 Intuitionsism frees us from the tyranny of classical thinking whilst natural deduction separates reasoning from logic altogether.
-Both are so ubiquitous as to be almost transparent, however, and therefore their contributions are seldom recognised.
-We think, communicate and argue intuitionistically, for example, just as much as we do classically;
+Both are so ubiquitous as to be almost transparent, however, and therefore their importance is seldom recognised.
+We think, communicate and argue intuitionistically, for example, just as much as we do so classically;
 and natural deduction is so commonplace in the sciences, computer science in particular, that it seems to go completely unnoticed.
-Therefore if this book does nothing more for the otherwise disinterested reader than to make them aware of these approaches then it has at least have acheived something.
+So if this book does nothing more for the otherwise disinterested reader than to make them aware of these approaches then it has at least have acheived something.
 
 Moving on:
 
@@ -26,8 +26,9 @@ The first two can be attributed to John Backus and Stephen Cole Kleene, respecti
 
 Each of these four elephants has a succeeding chapter devoted to it,
 but because intuitionism is so general, and because it suffuses pretty much all of what follows, it is worth expanding on it further now.
-So, consider the following list of questions.
-I claim that they are all answered in what follows.
+
+Consider the following list of questions.
+I claim that this book provides answers to all of them.
 Some may find this surprising or even shocking and some might accuse me of intellectual hubris, or worse, for making such a claim.
 But we shall see.
 
@@ -37,17 +38,11 @@ But we shall see.
 4. What is meaning? 
 5. What is a number? 
 
-By asking what is meaning I mean that if I were to say to you that I did not understand what you meant, what would I be trying to get across? 
-And never mind just what is a number.
-I could ask what is a natural number, or a real number. 
-The reason why claiming to have answers to these questions and indeed others like them may seem almost maniacal is their general or sometimes arguably metaphysical nature. 
-For example, asking what is logic.
-You might counter that I might just as well ask what is art.
-No two logicians will agree on a preicse definition of logic after all, and yet here I am claiming that I know precisely what it is!
-
-I will get out of this conundrum by way of an example. 
+No doubt the reason why claiming to have answers to these questions and many others like them may seem almost maniacal is their general or even metaphysical nature. 
+For example, what about my claim that I know what logic is.
+No two logicians will agree on a preicse definition of logic after all, and yet here I am claiming that I know precisely what it is! Let me wriggle out of this by way of an example. 
 Consider the question of what is justice.
-There is a branch of philosophy concerned with this question, namely ethics, just as there is a branch of philosophy concerned with the question of what is art, namely aesthetics.
+There is a branch of philosophy concerned with this question, namely ethics.
 But let us move away from philosophising for a moment and look at the question of what is justice from a more practical standpoint.
 
 Whatever country you live in will have various laws, persons, institutions, etc that constitute its justice system.
