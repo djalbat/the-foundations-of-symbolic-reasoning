@@ -60,7 +60,7 @@ Or, to put it another way, when considering *definitive* questions we eschew def
 In doing so what we lose in universality we gain in useability.
 
 To give another example, consider again the question of what is logic.
-If we narrow the question to what is propositional logic then Occam can be used to provide a precise answer.
+If we narrow the question down to what is propositional logic then Occam can be used to provide a precise answer.
 In fact, let us narrow it down a little further to the question of what is minimal propositional logic.
 It does not matter whether you know exactly what it is for now.
 Here is the answer:
@@ -70,7 +70,8 @@ Here is the answer:
 Thus minimal propositional logic is nothing but a collection of inference rules.
 Again it does not matter at this stage whether you know what inference rules are, but if you must know then they are fundamental to natural deduction.
 There are twelve inference rules in this case.
-Now some would argue that this is not what minimal propositional logic is, and they w
+Some would argue that this is not what minimal propositional logic is, of course, and they would have a point.
+
 
 [^1]: The word Occam is used somewhat mebulously here.
 It covers a suite of software and services together with the the theory that underlines them.
