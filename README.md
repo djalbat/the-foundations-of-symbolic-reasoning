@@ -54,16 +54,23 @@ And although it is not possible to define justice precisely, at least partly bec
 In fact a better way of putting it would be to call it a concept.
 This concept is not universal or metaphysical.
 If you were to move to a different country, for example, then the justice system and therefore the concept of justice would differ, perhaps markedly.
-To bring this example to its conclusion then, To think of justice in this way is to think of it *intutitionistically*.
-We shy away from the metaphysical and instead root ourselves in the practical.
+To think of justice in this way is to think of it *intutitionistically*.
+We avoid the ethereal and instead root ourselves in the practical.
 Or, to put it another way, when considering *definitive* questions we eschew definitive answers and instead offer *definite* ones.
-In doing so what we lose in generality we gain in useability.
+In doing so what we lose in universality we gain in useability.
 
-There is a saying in mathematics that god invented the natural numbers whereas all else was invented by man.
-Brouwer would have strenuously refuted this.
-You can *define* natural numbers in Occam, along with all the other numbers.
-This definition may not suit everyone, but it more than suffices.
-Again, when thinking intuitionistically we address the *definitive* questions by offering only *definite* answers.
+To give another example, consider again the question of what is logic.
+If we narrow the question to what is propositional logic then Occam can be used to provide a precise answer.
+In fact, let us narrow it down a little further to the question of what is minimal propositional logic.
+It does not matter whether you know exactly what it is for now.
+Here is the answer:
+
+[Open Mathematics - Minimal Propositinal Logic](https://openmathematics.org/package/minimal-propositional-logic)
+
+Thus minimal propositional logic is nothing but a collection of inference rules.
+Again it does not matter at this stage whether you know what inference rules are, but if you must know then they are fundamental to natural deduction.
+There are twelve inference rules in this case.
+Now some would argue that this is not what minimal propositional logic is, and they w
 
 [^1]: The word Occam is used somewhat mebulously here.
 It covers a suite of software and services together with the the theory that underlines them.
