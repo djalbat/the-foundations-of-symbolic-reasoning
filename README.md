@@ -62,8 +62,7 @@ In doing so what we lose in universality we gain in useability.
 To give another example, consider again the question of what is logic.
 If we narrow the question down to what is propositional logic then Occam can be used to provide a precise answer.
 In fact, let us narrow it down a little further to the question of what is minimal propositional logic.
-It does not matter whether you know exactly what it is for now.
-Here is the answer:
+It does not matter whether you have any prior idea of what it is, here is the answer:
 
 [Open Mathematics - Minimal Propositinal Logic](https://openmathematics.org/package/minimal-propositional-logic)
 
@@ -71,7 +70,7 @@ Thus minimal propositional logic is nothing but a collection of inference rules.
 Again it does not matter at this stage whether you know what inference rules are, but if you must know then they are fundamental to natural deduction.
 There are twelve inference rules in this case.
 Some would argue that this is not what minimal propositional logic is, of course, and they would have a point.
-But do *define* it precisely in this way, that is within the context of natural deduction as a collection of inference rules, is certainly one way of doing so, and arguably more useful than many an answer a logician would give.
+But to *define* it precisely in this way, that is within the context of natural deduction as a collection of inference rules, is certainly one way of doing so, and arguably more useful than many an answer a logician would give.
 
 In fact with the help of the third and fourth elephants it is possible to give definite answers to the other questions and many others besides.
 We leave off those for now, however, and continue a little more down the path of intuitionism.
