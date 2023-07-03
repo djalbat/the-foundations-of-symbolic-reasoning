@@ -71,10 +71,9 @@ Thus minimal propositional logic is nothing but a collection of inference rules.
 Again it does not matter at this stage whether you know what inference rules are, but if you must know then they are fundamental to natural deduction.
 There are twelve inference rules in this case.
 Some would argue that this is not what minimal propositional logic is, of course, and they would have a point.
-But do *define* it precisely in the context of natural deduction as a collection of inference rules in certainly one way of defining it.
-And arguably more useful than then answer that many a logician would give to boot.
+But do *define* it precisely in this way, that is within the context of natural deduction as a collection of inference rules, is certainly one way of doing so, and arguably more useful than many an answer a logician would give.
 
-In fact with the help of the third and fourth elephants it is possible to give definite answers to the other questions.
+In fact with the help of the third and fourth elephants it is possible to give definite answers to the other questions and many others besides.
 We leave off those for now, however, and continue a little more down the path of intuitionism.
 
 [^1]: The word Occam is used somewhat mebulously here.
