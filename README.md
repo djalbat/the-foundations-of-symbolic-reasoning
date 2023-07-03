@@ -46,16 +46,16 @@ There is a branch of philosophy concerned with this question, namely ethics.
 But let us move away from philosophising for a moment and look at the question of what is justice from a more practical standpoint.
 
 Whatever country you live in will have various laws, persons, institutions, etc that constitute its justice system.
-The law in particular encompasses divers statutes, processes, precedents, etc, adherence to which we think of as justice.
+The law in particular encompasses divers statutes, processes, precedents, etc, adherence to which and the machinations of the justice system in general we think of as justice.
 Indeed, we talk of justice being done; or miscarriages of justice; or the wheels of justice, the latter almost as if justice were a physical thing.
-Perhaps not a physical thing, but it is certainly mostly tangible and recognisable.
-And although it is not possible to define justice precisely, no doubt partly because of the vagaries of interpreting the law, it is still defintely a thing, for want of a better way of putting it.
+Perhaps not a physical thing, but it is certainly for the most part tangible and recognisable.
+And although it is not possible to define justice precisely, at least partly because of the vagaries of interpreting the law, it is still defintely a thing, for want of a better way of putting it.
 
 In fact a better way of putting it would be to call it a concept.
-This concept is not universal and certainly not metaphysical.
+This concept is not universal or metaphysical.
 If you were to move to a different country, for example, then the justice system and therefore the concept of justice would differ, perhaps markedly.
-To think of justice in this way is to think intutitionistically.
-We shy away from the metaphysical and instead root ourselves in the practicalities.
+To bring this example to its conclusion then, To think of justice in this way is to think of it *intutitionistically*.
+We shy away from the metaphysical and instead root ourselves in the practical.
 Or, to put it another way, when considering *definitive* questions we eschew definitive answers and instead offer *definite* ones.
 In doing so what we lose in generality we gain in useability.
 
