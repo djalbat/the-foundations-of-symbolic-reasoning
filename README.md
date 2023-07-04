@@ -1,3 +1,3 @@
 # The Foundations of Symbolic Reasoning
 
-1. [Introduction](./introduction.md)
+* [Introduction](./introduction.md)
