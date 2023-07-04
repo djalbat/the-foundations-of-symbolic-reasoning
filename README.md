@@ -74,16 +74,15 @@ Six are known as introduction rules and six elimination rules.
 Some would argue that this is not what minimal propositional logic is, of course, and they would have a point.
 But to *define* it precisely in this way, that is within the context of natural deduction as a collection of inference rules, is certainly one way of doing so, and arguably more useful than many an answer a logician would give.
 
-We shall see that with the help of the third and fourth elephants it is possible to also give definite answers to the remaining questions and others besides.
-We leave off those for now, however, and expand on intuitionism.
-
-Earlier it was claimed that we think, argue and communicate intuitionistically.
+To continue, earlier it was claimed that we think, argue and communicate intuitionistically.
 To see this, consider the statement "it is raining".
-We would not usually feel the need to assert additionally that such a statement were true.
-We would rarely say, for example, something like "it is true that it is raining" or "it is raining is true" since the veractiy of such statements usually goes without saying.
-Indeed it is entirely possible to think and communicate without the encoberance of the concepts of truth and falsehood altogether, and we often do.
+We would not usually feel the need to additionally assert that such a statement were true.
+We would rarely say, for example, something like "it is true that it is raining" or "it is raining is true", since the veractiy of such statements usually goes without saying.
+Indeed it is entirely possible to think and communicate without the encumberance of the concepts of truth and falsehood altogether, and we often do.
 To do so is to think and communicate intuitionistically.
 We use only positive statements, so to speak, whose veracity is considered to be self evident.
+And it is enough to assert only that  statements hold, rather than that they are true.
+
 You may wonder, if we do not have the concept of falsehood to hand then how to do refute statements.
 The answer is of course that we have negation to hand.
 We can refute the statement "it is raining" by negating it, retorting "it is not raining" or, more likely, the shortened "no it's not".
