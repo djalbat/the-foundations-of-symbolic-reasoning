@@ -1,4 +1,4 @@
-# The Foundations of Symbolic Reasoning - Introduction
+Introduction
 
 I started writing Occam[^1] with a view to providing an improved front end for existing theorem provers.
 There turned out to be little interest in this from the wider community, however, but by the time I had come to this conclusion I was already committed to creating a formal reasoning system of my own.
