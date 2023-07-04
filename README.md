@@ -67,7 +67,7 @@ It does not matter whether you have any prior idea of what this is, here is an a
 [Open Mathematics - Minimal Propositinal Logic](https://openmathematics.org/package/minimal-propositional-logic)
 
 Thus minimal propositional logic can be considered as nothing but a collection of inference rules.
-Again it does not matter at this stage whether you know what inference rules are, but if you must know then they are fundamental to natural deduction.
+It does not matter at this stage whether you know what inference rules are at this stage, in passing they are fundamental to natural deduction.
 There are twelve inference rules in this case.
 Some would argue that this is not what minimal propositional logic is, of course, and they would have a point.
 But to *define* it precisely in this way, that is within the context of natural deduction as a collection of inference rules, is certainly one way of doing so, and arguably more useful than many an answer a logician would give.
