@@ -3,7 +3,7 @@
 * [Introduction](./introduction.md)
 * Intuitionism: Domains of Reasoning
 * Natural Deduction: Syntactic Consequence
-* Structural Linguistics: Constructors
+* Structural Linguistics: Constructors and Combinators
 * Modern Grammars: Extending Occam's Vernacular
 * A First Example: Deriving the Principle of Induction
 * Advanced Reasoning: Constructing the Real Numbers
