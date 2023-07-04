@@ -96,6 +96,13 @@ In reality we segue between these two modes seemlessly and indeed sometimes it w
 Nonetheless it is important to draw this distinction if only for the reason that the majority of us are vaguely familiar with classical reasoning, with its emphaisis on the dichotomy of truth and falsehood, 
 whereas few will be familiar with intuitionstic reasoning, where the concepts of truth and falsehood play no part and, if we feel the need to empahsise the veracity of a statement, we content ourselves with asserting that it holds.
 
+Finaly, to draw attention to the distinction between classical and intutionistic reasoning is far from pedantry.
+Modern proof assistants always operate in one of these two modes.
+Satisfiability solvers are inherently classical, they *decide* whether a statement is true or false.
+On the other hand modern proof assistansts largely operate intuitionistically, *deriving* or, pehraps better, *deducing* whether statements hold.
+Occasionally verification software can operate in one or other mode and occassionaliy the waters are muddlied, but generally this distinction is a very good rule of thumb.
+
+
 [^1]: The word Occam is used somewhat mebulously here.
 It covers a suite of software and services together with the the theory that underlines them.
 This book is an apologia for the latter and there is a companion book, called The Occam User Manual, that covers the former.
