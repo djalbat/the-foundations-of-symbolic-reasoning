@@ -81,18 +81,20 @@ We would rarely say, for example, something like "it is true that it is raining"
 Indeed it is entirely possible to think and communicate without the encumberance of the concepts of truth and falsehood altogether, and we often do.
 To do so is to think and communicate intuitionistically.
 We use only positive statements, so to speak, whose veracity is considered to be self evident.
-And it is enough to assert only that  statements hold, rather than that they are true.
+And it is enough to assert only that these statements hold, rather than that they are true.
 
 You may wonder, if we do not have the concept of falsehood to hand then how to do refute statements.
-The answer is of course that we have negation to hand.
+The answer is that we have negation to hand.
 We can refute the statement "it is raining" by negating it, retorting "it is not raining" or, more likely, the shortened "no it's not".
-But this is still a positive statement in the sense that it is considered to be correct or, at a pinch, truthful, at least by the person who uttered it.
-Now it is possible to refute a statement by asserting that it is false.
-We might respond to the statement from a friend that 'it is raining" with the statement "that's not true", where "not true" means "false".
+But this is still a positive statement in the sense that it is considered to hold, at least by the person who uttered it.
+
+
+It is of course possible to refute a statement by asserting that it is false.
+We might respond to the statement from a friend that "it is raining" with the statement "that's not true", where "not true" is synonymous with "false".
 This is in a sense to communicate, or argue, classically.
-In reality we segue between these to modes seemlessly and sometimes it would be pedantic to draw a distinction.
+In reality we segue between these two modes seemlessly and indeed sometimes it would be pedantic to draw a distinction.
 Nonetheless it is important to draw this distinction if only for the reason that the majority of us are vaguely familiar with classical reasoning, with its emphaisis on the dichotomy of truth and falsehood, 
-whereas few will be familiar with intuitionstic reasoning, where the concepts of truth and falsehood play no part.
+whereas few will be familiar with intuitionstic reasoning, where the concepts of truth and falsehood play no part and, if we feel the need to empahsise the veracity of a statement, we content ourselves with asserting that it holds.
 
 [^1]: The word Occam is used somewhat mebulously here.
 It covers a suite of software and services together with the the theory that underlines them.
