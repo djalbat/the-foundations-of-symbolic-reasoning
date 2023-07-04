@@ -26,8 +26,9 @@ The first two can be attributed to John Backus and Stephen Cole Kleene, respecti
 
 Each of these four elephants has a succeeding chapter devoted to it,
 but because intuitionism is so general, and because it suffuses pretty much all of what follows, it is worth expanding on it further now.
+We also touch briefly on the other three elephants towards the end.
 
-Consider the following list of questions.
+Consider then the following list of questions.
 I claim that this book provides answers to all of them.
 Some may find this surprising or even shocking and some might accuse me of intellectual hubris, or worse, for making such a claim.
 But we shall see.
@@ -73,11 +74,26 @@ Six are known as introduction rules and six elimination rules.
 Some would argue that this is not what minimal propositional logic is, of course, and they would have a point.
 But to *define* it precisely in this way, that is within the context of natural deduction as a collection of inference rules, is certainly one way of doing so, and arguably more useful than many an answer a logician would give.
 
-In fact with the help of the third and fourth elephants it is possible to give definite answers to the other questions and many others besides.
+We shall see that with the help of the third and fourth elephants it is possible to also give definite answers to the remaining questions and others besides.
 We leave off those for now, however, and expand on intuitionism.
 
-
-
+Earlier it was claimed that we think, argue and communicate intuitionistically.
+To see this, consider the statement "it is raining".
+We would not usually feel the need to assert additionally that such a statement were true.
+We would rarely say, for example, something like "it is true that it is raining" or "it is raining is true" since the veractiy of such statements usually goes without saying.
+Indeed it is entirely possible to think and communicate without the encoberance of the concepts of truth and falsehood altogether, and we often do.
+To do so is to think and communicate intuitionistically.
+We use only positive statements, so to speak, whose veracity is considered to be self evident.
+You may wonder, if we do not have the concept of falsehood to hand then how to do refute statements.
+The answer is of course that we have negation to hand.
+We can refute the statement "it is raining" by negating it, retorting "it is not raining" or, more likely, the shortened "no it's not".
+But this is still a positive statement in the sense that it is considered to be correct or, at a pinch, truthful, at least by the person who uttered it.
+Now it is possible to refute a statement by asserting that it is false.
+We might respond to the statement from a friend that 'it is raining" with the statement "that's not true", where "not true" means "false".
+This is in a sense to communicate, or argue, classically.
+In reality we segue between these to modes seemlessly and sometimes it would be pedantic to draw a distinction.
+Nonetheless it is important to draw this distinction if only for the reason that the majority of us are vaguely familiar with classical reasoning, with its emphaisis on the dichotomy of truth and falsehood, 
+whereas few will be familiar with intuitionstic reasoning, where the concepts of truth and falsehood play no part.
 
 [^1]: The word Occam is used somewhat mebulously here.
 It covers a suite of software and services together with the the theory that underlines them.
