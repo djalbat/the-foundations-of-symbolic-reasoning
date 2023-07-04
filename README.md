@@ -56,7 +56,7 @@ This concept is not universal or metaphysical.
 If you were to move to a different country, for example, then the justice system and therefore the concept of justice would differ, perhaps markedly.
 To think of justice in this way is to think of it *intutitionistically*.
 We avoid the ethereal and instead root ourselves in the practical.
-Or, to put it another way, when considering *definitive* questions we eschew definitive answers and instead offer *definite* ones.
+Or, to put it another way, when considering *definitive* questions we eschew definitive answers and instead embrace *definite* ones.
 In doing so what we lose in universality we gain in utility.
 
 To give another example, consider again the question of what is logic.
@@ -67,8 +67,9 @@ It does not matter whether you have any prior idea of what this is, here is an a
 [Open Mathematics - Minimal Propositinal Logic](https://openmathematics.org/package/minimal-propositional-logic)
 
 Thus minimal propositional logic can be considered as nothing but a collection of inference rules.
-It does not matter at this stage whether you know what inference rules are at this stage, in passing they are fundamental to natural deduction.
-There are twelve inference rules in this case.
+It does not matter if you know what inference rules are, by the way, it is probably enough to know at this stage that they are fundamental to natural deduction.
+Note that there are twelve inference rules in this case. 
+Six are known as introduction rules and six elimination rules.
 Some would argue that this is not what minimal propositional logic is, of course, and they would have a point.
 But to *define* it precisely in this way, that is within the context of natural deduction as a collection of inference rules, is certainly one way of doing so, and arguably more useful than many an answer a logician would give.
 
