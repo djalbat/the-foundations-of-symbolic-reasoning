@@ -57,12 +57,12 @@ If you were to move to a different country, for example, then the justice system
 To think of justice in this way is to think of it *intutitionistically*.
 We avoid the ethereal and instead root ourselves in the practical.
 Or, to put it another way, when considering *definitive* questions we eschew definitive answers and instead offer *definite* ones.
-In doing so what we lose in universality we gain in useability.
+In doing so what we lose in universality we gain in utility.
 
 To give another example, consider again the question of what is logic.
 If we narrow the question down to what is propositional logic then Occam can be used to provide a precise answer.
-In fact, let us narrow it down a little further to the question of what is minimal propositional logic.
-It does not matter whether you have any prior idea of what it is, here is an answer:
+Actually let us narrow it down a little further to the question of what is minimal propositional logic.
+It does not matter whether you have any prior idea of what this is, here is an answer:
 
 [Open Mathematics - Minimal Propositinal Logic](https://openmathematics.org/package/minimal-propositional-logic)
 
@@ -73,7 +73,10 @@ Some would argue that this is not what minimal propositional logic is, of course
 But to *define* it precisely in this way, that is within the context of natural deduction as a collection of inference rules, is certainly one way of doing so, and arguably more useful than many an answer a logician would give.
 
 In fact with the help of the third and fourth elephants it is possible to give definite answers to the other questions and many others besides.
-We leave off those for now, however, and continue a little more down the path of intuitionism.
+We leave off those for now, however, and expand on intuitionism.
+
+
+
 
 [^1]: The word Occam is used somewhat mebulously here.
 It covers a suite of software and services together with the the theory that underlines them.
