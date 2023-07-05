@@ -101,7 +101,6 @@ Satisfiability solvers are inherently classical, they *decide* whether a stateme
 On the other hand modern proof assistansts largely operate intuitionistically, *deriving* or, pehraps better, *deducing* whether statements hold.
 Occasionally verification software can operate in one or other mode and occassionaliy the waters are muddlied, but generally this distinction is a very good rule of thumb.
 
-
 [^1]: The word Occam is used somewhat mebulously here.
 It covers a suite of software and services together with the the theory that underlines them.
 This book is an apologia for the latter and there is a companion book, called The Occam User Manual, that covers the former.
