@@ -2,20 +2,20 @@
 
 I started writing Occam[^1] with a view to providing an improved front end for existing theorem provers.
 There turned out to be little interest in this from the wider community, however, but by the time I had come to this conclusion I was already committed to creating a formal reasoning system of my own.
-The reason was that I became convinced that I had rediscovered an alternative understanding of mathematics and logic that was not founded on what is usually referred to as set theory plus first order logic, nor was it founded on some type theory. 
+The reason was that I became convinced by an alternative understanding of mathematics and logic that was not founded on what is usually referred to as set theory plus first order logic, nor was it founded on some type theory. 
 Rather it is based on the following approaches, what I call the four elephants.
 By the way, I should mention that there is nothing heretical or even original in adopting any of these approaches.
 Much of the thinking behind them predates type theory, for example, and some of it predates set theory.
 So, the four elephants:
 
-1. Intuitionisism, which goes back at least to Brouwer[^2].
+1. Intuitionisism, which goes back at least to Brouwer.[^2]
 2. Natural Deduction, due to Gentzen.
 
-Before going any further I will remark that in my opinion intuitionism and natural deduction together constitute the most significant advance in formal reasoning since the greeks invented logic.
-Intuitionsism frees us from the tyranny of truth and falsehood whilst natural deduction separates reasoning from logic altogether.
+Before going any further it is worth remarking that in my opinion intuitionism and natural deduction together constitute the most significant advance in formal reasoning since the greeks invented logic.
+Intuitionsism frees us from the tyranny of the dichotomoy of truth and falsehood whilst natural deduction separates reasoning from logic altogether.
 Both are so ubiquitous as to be almost transparent, however, and therefore their importance is seldom recognised.
 We think, communicate and argue intuitionistically just as much as we do so classically, for example;
-and natural deduction is so commonplace in the sciences, computer science in particular, that it seems to go completely unnoticed.
+and natural deduction is so commonplace in the mathematical sciences, computer science in particular, that it seems to go completely unnoticed.
 So if this book does nothing more for the otherwise disinterested reader than to make them aware of these approaches then it has at least have acheived something.
 
 Moving on:
@@ -41,8 +41,8 @@ Still, here is the list:
 6. Many others.
 
 No doubt the reason why claiming to have answers to these questions may seem almost maniacal is their general, metaphysical nature. 
-For example, what about the claim that I know what logic is.
-No two logicians will agree on a preicse definition of logic, after all, and yet here I am claiming that I know precisely what it is! 
+For instance, what about the claim that I know what logic is.
+No two logicians will agree on a preicse definition of logic, after all, and yet here I claim that I can define logics precisely. 
 Let me wriggle out of this by way of an example. 
 Consider the question of what is justice.
 There is a branch of philosophy concerned with this question, namely ethics.
