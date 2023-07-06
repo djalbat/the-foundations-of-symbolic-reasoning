@@ -42,7 +42,7 @@ Still, here is the list:
 
 No doubt the reason why claiming to have answers to these questions may seem almost maniacal is their general, metaphysical nature. 
 For instance, what about the claim that I know what logic is.
-No two logicians will agree on a preicse definition of logic, after all, and yet here I claim that I can define logics precisely. 
+No two logicians will agree on a preicse definition of logic, after all.
 Let me wriggle out of this by way of an example. 
 Consider the question of what is justice.
 There is a branch of philosophy concerned with this question, namely ethics.
@@ -50,26 +50,26 @@ But let us move away from philosophising for a moment and look at the question o
 
 Whatever country you live in will have various laws, persons, institutions, etc that constitute its justice system.
 The law in particular encompasses divers statutes, processes, precedents, etc, adherence to which and the machinations of the justice system in general we think of as justice.
-Indeed, we talk of justice being done; or miscarriages of justice; or the wheels of justice, the latter almost as if justice were a physical thing.
+Indeed, we talk of justice being done; or of miscarriages of justice; or of the wheels of justice, the latter almost as if justice were a physical thing.
 Perhaps not a physical thing, but it is certainly for the most part tangible and recognisable.
 And although it is not possible to define justice precisely, at least in part because of the vagaries of interpreting the law, it is still defintely a thing, for want of a better way of putting it.
 
 In fact a better way of putting it would be to call it a concept.
-Such a concept is not universal or metaphysical.
+Such concepts are neither universal nor metaphysical.
 If you were to move to a different country, for example, then the justice system and therefore the concept of justice would differ, perhaps markedly.
 To think of justice in this way is to think of it *intutitionistically*.
 We avoid the ethereal and instead root ourselves in the practical.
 Or, to put it another way, when considering *definitive* questions we eschew definitive answers and instead embrace *definite* ones.
 In doing so what we lose in universality we gain in utility.
 
-To give another example, consider again the question of what is logic.
+Now consider again the question of what is logic.
 If we narrow the question down to what is propositional logic then Occam can be used to provide a precise answer.
 Actually let us narrow it down a little further to the question of what is minimal propositional logic.
 Here is an answer:
 
 [Open Mathematics - Minimal Propositinal Logic](https://openmathematics.org/package/minimal-propositional-logic)
 
-Thus minimal propositional logic can be considered as nothing but a collection of inference rules.
+Thus minimal propositional logic can be defined as nothing but a collection of inference rules.
 It does not matter if you know what inference rules are, by the way, it is probably enough at this stage to know that they are fundamental to natural deduction.
 Some would argue that this is not what minimal propositional logic is, of course, and they would have a point.
 But to *define* it precisely in this way, that is within the context of natural deduction as a collection of inference rules, is certainly one way of doing so, 
