@@ -12,9 +12,9 @@ So, the four elephants:
 2. Natural Deduction, due to Gentzen.
 
 Before going any further it is worth remarking that in my opinion intuitionism and natural deduction together constitute the most significant advance in formal reasoning since the greeks invented logic.
-Intuitionsism frees us from the tyranny of the dichotomoy of truth and falsehood whilst natural deduction separates reasoning from logic altogether.
+Intuitionsism frees us from the tyranny of the dichotomy of truth and falsehood whilst natural deduction separates reasoning from logic altogether.
 Both are so ubiquitous as to be almost transparent, however, and therefore their importance is seldom recognised.
-We think, communicate and argue intuitionistically just as much as we do so classically, for example;
+We think and communicate intuitionistically just as much as we do so classically, for example;
 and natural deduction is so commonplace in the mathematical sciences, computer science in particular, that it seems to go completely unnoticed.
 So if this book does nothing more for the otherwise disinterested reader than to make them aware of these approaches then it has at least have acheived something.
 
@@ -26,7 +26,6 @@ The first two can be attributed to John Backus and Stephen Cole Kleene, respecti
 
 Each of these four elephants has a succeeding chapter devoted to it,
 but because intuitionism is so general, and because it suffuses pretty much all of what follows, it is worth expanding on it further now.
-We also touch briefly on the other three elephants towards the end.
 
 Consider then the following list of questions.
 I claim that this book provides answers to all of them.
@@ -70,17 +69,14 @@ Here is an answer:
 [Open Mathematics - Minimal Propositinal Logic](https://openmathematics.org/package/minimal-propositional-logic)
 
 Thus minimal propositional logic can be defined as nothing but a collection of inference rules.
-It does not matter if you know what inference rules are, by the way, it is probably enough at this stage to know that they are fundamental to natural deduction.
 Some would argue that this is not what minimal propositional logic is, of course, and they would have a point.
-But to *define* it precisely in this way, that is within the context of natural deduction as a collection of inference rules, is certainly one way of doing so, 
-and arguably more useful than many an imprecise answer that a logician would give.
+But to *define* it precisely in this way is certainly one way of doing so and arguably more useful than many an imprecise answer that a logician would give.
 
-To continue, earlier it was claimed that we think, argue and communicate intuitionistically.
+To continue, earlier it was claimed that we think and communicate intuitionistically.
 To see this, consider the statement "it is raining".
-We would not usually feel the need to additionally assert that such a statement were true.
-We would rarely say, for example, something like "it is true that it is raining" or "it is raining is true", since the veractiy of such statements usually goes without saying.
-Indeed it is entirely possible to think and communicate without the encumberance of the concepts of truth and falsehood altogether, and we often do.
-To do so is to think and communicate intuitionistically.
+Normally, we would not feel the need to additionally assert that such a statement were true.
+We would rarely say "it is true that it is raining", for example, or "it is raining is true", since the veractiy of the original statement would usually go without saying.
+Indeed it is entirely possible to think and communicate without the encumberance of the dichotomy of truth and falsehood altogether, and we often do.
 We use only positive statements, so to speak, whose veracity is considered to be self evident.
 And it is enough to assert only that these statements hold, rather than that they are true.
 You may wonder, if we do not have the concept of falsehood to hand then how to do refute statements.
@@ -89,16 +85,15 @@ We can refute the statement "it is raining" by negating it, retorting "it is not
 But this is still a positive statement in the sense that it is considered to hold, at least by the person who uttered it.
 
 It is of course possible to refute a statement by asserting that it is false.
-We might respond to the statement from a friend that "it is raining" with the statement "that's not true", where "not true" is synonymous with "false".
-This is in a sense to communicate, or argue, classically.
+We might respond to the statement that "it is raining" with the statement "that's not true", where "not true" is synonymous with "false".
+This is in a sense to communicate classically rather than intuitionistically.
 In reality we segue between these two modes seemlessly and indeed sometimes it would be pedantic to draw a distinction.
-Nonetheless it is important to draw this distinction if only for the reason that the majority of us are vaguely familiar with classical reasoning, with its emphaisis on the dichotomy of truth and falsehood, 
-whereas few will be familiar with intuitionstic reasoning, where the concepts of truth and falsehood play no part and, if we feel the need to empahsise the veracity of a statement, we content ourselves with asserting that it holds.
+Nonetheless it is important to draw this distinction if only for the reason that the majority of us are vaguely familiar with the classical mode whereas few will be familiar with intuitionstic one.
 
-Finaly, to draw attention to the distinction between classical and intutionistic reasoning is far from pedantry.
-Modern proof assistants always operate in one of these two modes.
-Satisfiability solvers are inherently classical, they *decide* whether a statement is true or false.
-On the other hand modern proof assistansts largely operate intuitionistically, *deriving* or, pehraps better, *deducing* whether statements hold.
+It is also worth noting that to draw attention to the distinction between classical and intutionistic reasoning is far from pedantry.
+Modern proof assistants usually operate in one of these two modes.
+Satisfiability solvers are inherently classical, for example, they *decide* whether statements are true or false.
+On the other hand modern proof assistansts largely operate intuitionistically, they *derive* or *deduce* statements that hold.
 Occasionally verification software can operate in one or other mode and occassionaliy the waters are muddlied, but generally this distinction is a very good rule of thumb.
 
 [^1]: The word Occam is used somewhat mebulously here.
