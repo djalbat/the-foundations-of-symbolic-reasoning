@@ -43,13 +43,20 @@ Broadly speaking, when following scientific method we make observations of the r
 We then deduce certain conclusions within our theory, which we ratify by further observation.
 If our conclusions match closely with observation then we say that our theory is a good one.
 If they do not then no matter how intrinsically appealling our theory may be, we must ditch it, or at least go back and amend it.
-The process of deduction will be more or less formal depending on the field of study but what is common to all is that our theories are seen as just that, namely collections of interrelated concepts.
+The process of deduction will be more or less formal depending on the field of study but what is common to all is that the theories are seen as just that, namely collections of interrelated concepts.
 This is crucial because theories that may do a very good job of describing the real world may nonetheless be incompatible.
 Consider the hackneyed dichotomy of general relativity versus quantum mechanics, for example.
-The hypotheses of both match observation to an extraordinary degree of accuracy and yet it is common knowledge that they remain ununified despite more than half a century of effort.
+The hypotheses of both match observation to an extraordinary degree and yet it is common knowledge that they remain ununified despite more than half a century of effort.
 It is only the understanding that these theories are wholly conceptual that allows this situation to persist.
 We accept that there are different scientific views of the world, so to speak, and indeed the search for one big theory of everyting is largely viewed as naïve these days.
-Thus scientific method can be considered a form of relativism.
+Thus scientific method can be considered as a form of relativism.
+
+Desipte this, however, many see mathematics as in some sense special, regarding mathematical concepts as separate from our own understaning of them.
+Consider the Platonic solids, for example, known since antiqutiy and commonly believed to have been there for the discovering, rather than being invented by us.
+The idea that they were floating around in some ethereal limbo prior to their discovery would have been anathema to Brouwer, however.
+He believed that all mathematical concepts were just that, concepts, invented by us, no matter how closely they mirrored our perception of reality.
+It is worth stressing that Brouwer would not have denied the appearance of mathematical concepts in nature, the natural numbers being a case in point.
+However he would have stressed that we *perceive* that there are two cups on the table in front of us, say, or three trees outside.
 
 
 
