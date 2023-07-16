@@ -20,28 +20,38 @@ So if this book does nothing more for the otherwise disinterested reader than to
 Moving on:
 
 3. Structural linguistics, in particular the work of Frege.
-4. What might be termed modern grammars, specifically BNF, regular expresions and Unicode. 
-The first two can be attributed to John Backus and Stephen Cole Kleene, respectively.
+4. Collectively what I call modern grammars. Specifically BNF, due to John Backus; regular expresions, due to Stephen Cole Kleene; and Unicode. 
 
 Each of these four elephants has a succeeding chapter devoted to it,
 but because intuitionism is so general, and because it suffuses pretty much all of what follows, it is worth expanding on it further now.
-
 Consider then the following list of questions.
 I claim that this book provides answers to all of them.
-Some may find this surprising or even shocking and some might accuse me of intellectual hubris, or worse, for making such a claim.
-Still, here is the list:
+Some may find this surprising or even shocking and some might accuse me of intellectual hubris, or worse, for making such claims.
+Still, here is the list, to which I could have added many more:
 
 1. What is truth?
 2. What is mathematics?
 3. What is logic?
 4. What is meaning? 
-5. What is a number? 
-6. Many others.
+5. What is a number?
 
-No doubt the reason why claiming to have answers to these questions may seem almost maniacal is their general, metaphysical nature. 
-For instance, what about the claim that I know what logic is.
-No two logicians will agree on a preicse definition of logic, after all.
-Let me wriggle out of this by way of an example. 
+No doubt the reason why claiming to have answers to these questions seems surprising is their general, metaphysical nature.
+However, we shall see that intuitionism can get us out of this fix.
+We begin by looking at scientific method, which will be familiar to most.
+Broadly speaking we make observations of the real world and use these as assumptions in our theory.
+We then deduce certain conclusions within our theory which we ratify by further observation.
+If our conclusions match closely with observation then we may assert that our theory is a good one.
+If they do not then no matter how intrinsically appealling our theory may be, we must ditch it, or at least go back and amend it.
+The process of deduction will be more or less formal depending on the field of study but what is common to all is that the theories is seen as just that, 
+that is, collections of interrelated concepts.
+This is crucial because theories that may do a very good job of describing the real world may nonetheless be incompatible.
+Consider the hackneyed example of general relativity versus quantum mechanics.
+The hypotheses of both match observation to an extraordinary degree of accuracy and yet it is common knowledge that they remain ununified despite more than half a century of effort.
+It is only the understanding that these theories are wholly conceptual that allows this situation to persist.
+We accept that there are different scientific views of the world, so to speak, and indeed the search for one big theory of everyting is largely viewed as naïve these days.
+Thus scientific method is a form of relativism
+
+
 Consider the question of what is justice.
 There is a branch of philosophy concerned with this question, namely ethics.
 But let us move away from philosophising for a moment and look at the question of what is justice from a more practical standpoint.
@@ -52,6 +62,7 @@ Indeed, we talk of justice being done; or of miscarriages of justice; or of the 
 Perhaps not a physical thing, but it is certainly for the most part tangible and recognisable.
 And although it is not possible to define justice precisely, at least in part because of the vagaries of interpreting the law, it is still defintely a thing, for want of a better way of putting it.
 
+
 In fact a better way of putting it would be to call it a concept.
 Such concepts are neither universal nor metaphysical.
 If you were to move to a different country, for example, then the justice system and therefore the concept of justice would differ, perhaps markedly.
@@ -60,12 +71,16 @@ We avoid the ethereal and instead root ourselves in the practical.
 Or, to put it another way, when considering *definitive* questions we eschew definitive answers and instead embrace *definite* ones.
 In doing so what we lose in universality we gain in utility.
 
+
+
 Now consider again the question of what is logic.
 If we narrow the question down to what is propositional logic then Occam can be used to provide a precise answer.
 Actually let us narrow it down a little further to the question of what is minimal propositional logic.
 Here is an answer:
 
 [Open Mathematics - Minimal Propositinal Logic](https://openmathematics.org/package/minimal-propositional-logic)
+
+
 
 Thus minimal propositional logic can be defined as nothing but a collection of inference rules.
 Some would argue that this is not what minimal propositional logic is, of course, and they would have a point.
