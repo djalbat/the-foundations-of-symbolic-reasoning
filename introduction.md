@@ -37,6 +37,8 @@ Still, here is the list, to which I could have added many more:
 
 No doubt the reason why claiming to have answers to these questions seems surprising is their general, metaphysical nature.
 However, we shall see that intuitionism can get us out of this fix.
+
+
 We begin by looking at scientific method, which will be familiar to most.
 Broadly speaking we make observations of the real world and use these as assumptions in our theory.
 We then deduce certain conclusions within our theory which we ratify by further observation.
@@ -49,8 +51,7 @@ Consider the hackneyed example of general relativity versus quantum mechanics.
 The hypotheses of both match observation to an extraordinary degree of accuracy and yet it is common knowledge that they remain ununified despite more than half a century of effort.
 It is only the understanding that these theories are wholly conceptual that allows this situation to persist.
 We accept that there are different scientific views of the world, so to speak, and indeed the search for one big theory of everyting is largely viewed as naïve these days.
-Thus scientific method is a form of relativism
-
+Thus scientific method is a form of relativism.
 
 Consider the question of what is justice.
 There is a branch of philosophy concerned with this question, namely ethics.
