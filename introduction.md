@@ -4,20 +4,19 @@ I started writing Occam[^1] with a view to providing an improved front end for e
 There turned out to be little interest in this from the wider community, however, but by the time I had come to this conclusion I was already committed to creating a formal reasoning system of my own.
 The reason was that I became convinced by an alternative understanding of mathematics and logic that was not founded on what is usually referred to as set theory plus first order logic, nor was it founded on some type theory. 
 Rather it is based on the following approaches, what I call the four elephants.
-By the way, I should mention that there is nothing heretical or even original in adopting any of these approaches.
+By the way, I should mention straight away that there is nothing heretical or even original in adopting any of these approaches.
 Much of the thinking behind them predates type theory, for example, and some of it predates set theory.
 So, the four elephants:
 
-1. Intuitionisism, which goes back at least to Brouwer.[^2]
+1. Intuitionisism, due to Brouwer.
 2. Natural Deduction, due to Gentzen.
 
-Before going any further it is worth remarking that in my opinion intuitionism and natural deduction together constitute the most significant advance in formal reasoning since the greeks invented logic.
-Intuitionsism frees us from the tyranny of the dichotomy of truth and falsehood whilst natural deduction separates reasoning from logic altogether.
+By the way, in my opinion intuitionism and natural deduction together constitute the most significant advance in formal reasoning since the greeks invented logic,
+because intuitionsism frees us from the tyranny of the dichotomy of truth and falsehood whilst natural deduction separates reasoning from logic altogether.
 Both are so ubiquitous as to be almost transparent, however, and therefore their importance is seldom recognised.
 We think and communicate intuitionistically just as much as we do so classically, for example;
 and natural deduction is so commonplace in the mathematical sciences, computer science in particular, that it seems to go completely unnoticed.
 So if this book does nothing more for the otherwise disinterested reader than to make them aware of these approaches then it has at least have acheived something.
-
 Moving on:
 
 3. Structural linguistics, in particular the work of Frege.
@@ -99,7 +98,3 @@ Occasionally verification software can operate in one or other mode and occassio
 [^1]: The word Occam is used somewhat mebulously here.
 It covers a suite of software and services together with the the theory that underlines them.
 This book is an apologia for the latter and there is a companion book, called The Occam User Manual, that covers the former.
-
-[^2]: Tom Koerner in his excellent book Fourier Analysis wrote that mathematicians make remarkably incompetent historians.
-This is not a mathematics book but nor is it a history book.
-I atttibute the occasional idea or theory to a particular person, as is usual, but this is meant to be no more than a pointer for the historically curious.
