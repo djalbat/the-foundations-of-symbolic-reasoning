@@ -38,20 +38,20 @@ No doubt the reason why claiming to have answers to these questions seems surpri
 However, we shall see that intuitionism can get us out of this fix.
 
 We begin by looking at scientific method, which will be familiar to most.
-Broadly speaking, when following scientific method we make observations of the real world and use these as assumptions for a theory.
-We then deduce certain conclusions within that theory, which we ratify by further observation.
+Broadly speaking, when following scientific method we make observations of what we perceive to be the real world and use these as assumptions for a theory.
+We then deduce certain conclusions within that theory, which we them ratify by further observation.
 If our conclusions match closely with observation then we say that the theory is a good one.
-If they do not then no matter how intrinsically appealling the theory may be, we must ditch it, or at least go back and amend it.
-The process of deduction will be more or less formal depending on the field of study but what is common to all is that any theory are seen as just that, namely a collection of interrelated concepts.
+If they do not then no matter how intrinsically appealling the theory may be, we must ditch it, or at least amend it.
+The process of deduction will be more or less formal depending on the field of study but what is common to all is that the theory is seen as just that, namely a collection of interrelated concepts.
 
 This last point is crucial because theories that may do a very good job of describing the real world may nonetheless be incompatible.
-Consider the hackneyed dichotomy of general relativity versus quantum mechanics, for example.
-The hypotheses of both theories can match observations to an extraordinary degree and yet it is common knowledge that they remain incompatible despite more than half a century of effort.
-Thus it is only an acceptance that these theories are wholly conceptual in nature that allows this situation to persist.
-We concede that there are different scientific views of the world, so to speak, and thus scientific method can be considered as a form of relativism.
+Consider the hackneyed dichotomy of general relativity versus quantum electrodynamics, for example.
+The hypotheses of both theories can match observations to an extraordinary degree and yet it is common knowledge that they remain incompatible despite more than half a century of effort to unify them.
+It is only an acceptance that these theories are wholly conceptual in nature that allows this situation to persist.
+We concede that there can be different scientific views of the world, so to speak, and thus scientific method can be considered as a form of relativism.
 
-Desipte this, however, many see mathematics as in some sense special, regarding mathematical concepts as separate from our own understaning of them.
-Consider the Platonic solids, for example, known since antiqutiy and commonly believed to have been there for the discovering, rather than being invented by us.
+On the other hand, many see mathematics as in some sense unique and special, and regard mathematical concepts as in some sense separate from our own understaning of them.
+Consider the Platonic solids, for example, known since antiqutiy and commonly believed to have been there for the discovering, rather than having been invented by us.
 The idea that they were floating around in some ethereal limbo prior to their discovery would have been anathema to Brouwer, however.
 He believed that all mathematical concepts were just that, conceived by us, no matter how closely they mirrored our perception of reality.
 It is worth stressing that Brouwer would not have denied the appearance of mathematical concepts in nature, the natural numbers being a case in point.
