@@ -54,10 +54,11 @@ On the other hand, many see mathematics as unique and special, and regard mathem
 Consider the Platonic solids, for example, known since antiqutiy and often believed to have been there for the discovering, rather than having been invented by us.
 Unfortunately this is not the case, however.
 Mathematical concepts are just that, namely concepts, even concepts as seemingly natural as, say, the natural numbers.
-We may perceive these concepts in nature but that is not to say that they exist therein.
-Furthermore, there is no broad agreement about the nature of any mathematical concept, including the natural numbers.
+We may perceive these concepts in nature but that is not to say that they exist therein outside of our perception of them.
+Furthermore, it may come as a surprise to some but there is no broad agreement about the nature of mathematical concepts, including the natural numbers.
+Thus it seems unlikely that they exist universally and in perpetuity, however appealing such a belief may be.
 
-Fortunately intuitionism gives as a way out of this situation, being itself a form of relativism.
+Fortunately intuitionism gives us an alternative way of viewing mathematical concepts, being itself a form of relativism.
 Within intuitionism we can formulate our own ceoncepts and even decide which rules we use to reason about them.
 We do not search for universal consistency.
 Consider the question of what is justice.
