@@ -11,7 +11,7 @@ So, the four elephants:
 1. Intuitionisism, due to Brouwer.
 2. Natural Deduction, due to Gentzen.
 
-By the way, in my opinion intuitionism and natural deduction together constitute the most significant advance in formal reasoning since the greeks invented logic,
+In my opinion intuitionism and natural deduction together constitute the most significant advance in formal reasoning since the greeks invented logic,
 because intuitionsism frees us from the tyranny of the dichotomy of truth and falsehood whilst natural deduction separates reasoning from logic altogether.
 Both are so ubiquitous as to be almost transparent, however, and therefore their importance is seldom recognised.
 We think and communicate intuitionistically just as much as we do so classically, for example;
