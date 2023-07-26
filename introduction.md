@@ -46,10 +46,9 @@ The process of deduction will be more or less formal depending on the field of s
 
 This last point is crucial because theories that may do a very good job of describing the real world may nonetheless be incompatible.
 Consider the hackneyed dichotomy of general relativity versus quantum mechanics, for example.
-The hypotheses of both match observation to an extraordinary degree and yet it is common knowledge that they remain ununified despite more than half a century of effort.
-It is only the understanding that these theories are wholly conceptual that allows this situation to persist.
-We accept that there are different scientific views of the world, so to speak, and indeed the search for one big theory of everyting is largely viewed as naïve these days.
-Thus scientific method can be considered as a form of relativism.
+The hypotheses of both theories can match observations to an extraordinary degree and yet it is common knowledge that they remain incompatible despite more than half a century of effort.
+Thus it is only an acceptance that these theories are wholly conceptual in nature that allows this situation to persist.
+We concede that there are different scientific views of the world, so to speak, and thus scientific method can be considered as a form of relativism.
 
 Desipte this, however, many see mathematics as in some sense special, regarding mathematical concepts as separate from our own understaning of them.
 Consider the Platonic solids, for example, known since antiqutiy and commonly believed to have been there for the discovering, rather than being invented by us.
