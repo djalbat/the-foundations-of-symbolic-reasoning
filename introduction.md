@@ -51,18 +51,15 @@ It is only an acceptance that these theories are wholly conceptual in nature tha
 We concede that there can be different scientific views of the world, so to speak, and thus scientific method can be considered as a form of relativism.
 
 On the other hand, many see mathematics as unique and special, and regard mathematical concepts as in some sense separate from our own understaning of them.
-Consider the Platonic solids, for example, known since antiqutiy and commonly believed to have been there for the discovering, rather than having been invented by us.
-The idea that they were floating around in some ethereal limbo prior to their discovery would have been anathema to Brouwer, however.
-He believed that all mathematical concepts were just that, conceived by us, no matter how closely they mirrored our perception of reality.
-It is worth stressing that Brouwer would not have denied the appearance of mathematical concepts in nature, the natural numbers being a case in point.
-However, he would have stressed that we *perceive* that there are two cups on the table in front of us, say, or three trees outside.
+Consider the Platonic solids, for example, known since antiqutiy and often believed to have been there for the discovering, rather than having been invented by us.
+Unfortunately this is not the case, however.
+Mathematical concepts are just that, namely concepts, even concepts as seemingly natural as, say, the natural numbers.
+We may perceive these concepts in nature but that is not to say that they exist therein.
+Furthermore, there is no broad agreement about the nature of any mathematical concept, including the natural numbers.
 
-It could be argued that mathematical concepts are nonetheless universal, unlike the concepts in some scientific theory or other.
-Unfortunately this is not the case, however, and there is no broad agreement about the nature of any mathematical concept, including the natural numbers.
 Fortunately intuitionism gives as a way out of this situation, being itself a form of relativism.
 Within intuitionism we can formulate our own ceoncepts and even decide which rules we use to reason about them.
 We do not search for universal consistency.
-
 Consider the question of what is justice.
 There is a branch of philosophy concerned with this question, namely ethics.
 But let us move away from philosophising for a moment and look at the question of what is justice from a more practical standpoint.
