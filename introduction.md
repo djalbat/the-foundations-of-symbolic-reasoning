@@ -19,11 +19,10 @@ and natural deduction is so commonplace in the mathematical sciences, computer s
 So if this book does than to raise the awareness of these approaches then it has at least have acheived something.
 Moving on:
 
-3. Structural linguistics, in particular the work of Frege.
-4. Collectively what I call modern grammars. Specifically BNF, due to John Backus; regular expresions, due to Stephen Cole Kleene; and Unicode. 
+3. Structural linguistics, or ast least a part thereof, in particular the work of Frege.
+4. Modern grammars, specifically BNF, due to John Backus; regular expresions, due to Stephen Cole Kleene; and Unicode. 
 
-Each of these four elephants has a succeeding chapter devoted to it,
-but because intuitionism is so general, and because it suffuses pretty much all of what follows, it is worth expanding on it further now.
+Each of these four elephants has a chapter devoted to it, but because intuitionism suffuses pretty much all of what follows, it is worth expanding on it further here.
 Consider then the following list of questions.
 I claim that this book provides answers to all of them.
 Some may find this surprising or even shocking and some might accuse me of intellectual hubris, or worse, for making such claims.
