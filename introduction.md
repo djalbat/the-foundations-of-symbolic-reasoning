@@ -25,7 +25,7 @@ Moving on:
 Each of these four elephants has a chapter devoted to it, but because intuitionism suffuses pretty much all of what follows, it is worth expanding on it further here.
 Consider then the following list of questions.
 I claim that this book provides answers to all of them.
-Some may find this surprising or even shocking and some might accuse me of intellectual hubris, or worse, for making such claims.
+Some may find this surprising or even shocking and some might accuse me of intellectual hubris, or worse.
 Still, here is the list, to which I could have added many more:
 
 1. What is truth?
