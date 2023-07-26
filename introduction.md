@@ -53,14 +53,14 @@ We concede that there can be different scientific views of the world, so to spea
 On the other hand, many see mathematics as unique and special, and regard mathematical concepts as in some sense separate from our own understaning of them.
 Consider the Platonic solids, for example, known since antiqutiy and often believed to have been there for the discovering, rather than having been invented by us.
 Unfortunately this is not the case, however.
-Mathematical concepts are just that, namely concepts, even concepts as seemingly natural as, say, the natural numbers.
-We may perceive these concepts in nature but that is not to say that they exist therein outside of our perception of them.
+Mathematical concepts are just that, namely concepts, even those as seemingly natural as, say, the natural numbers.
+We may perceive these concepts in nature but that is not to say that they exist aside from our perception of them.
 Furthermore, it may come as a surprise to some but there is no broad agreement about the nature of mathematical concepts, including the natural numbers.
 Thus it seems unlikely that they exist universally and in perpetuity, however appealing such a belief may be.
 
 Fortunately intuitionism gives us an alternative way of viewing mathematical concepts, being itself a form of relativism.
-Within intuitionism we can formulate our own ceoncepts and even decide which rules we use to reason about them.
-We do not search for universal consistency.
+Within intuitionism we can formulate our own mathematical concepts and even which logical rules we use to reason about them.
+We do not search for some universal consistency, because we understand that such a consistency is illusory.
 Consider the question of what is justice.
 There is a branch of philosophy concerned with this question, namely ethics.
 But let us move away from philosophising for a moment and look at the question of what is justice from a more practical standpoint.
