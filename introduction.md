@@ -12,11 +12,11 @@ So, the four elephants:
 2. Natural Deduction, due to Gentzen.
 
 In my opinion intuitionism and natural deduction together constitute the most significant advance in formal reasoning since the greeks invented logic,
-because intuitionsism frees us from the tyranny of the dichotomy of truth and falsehood whilst natural deduction separates reasoning from logic altogether.
+Intuitionsism frees us from the tyranny of the dichotomy of truth and falsehood whilst natural deduction separates reasoning from logic.
 Both are so ubiquitous as to be almost transparent, however, and therefore their importance is seldom recognised.
 We think and communicate intuitionistically just as much as we do so classically, for example;
 and natural deduction is so commonplace in the mathematical sciences, computer science in particular, that it seems to go completely unnoticed.
-So if this book does nothing more for the otherwise disinterested reader than to make them aware of these approaches then it has at least have acheived something.
+So if this book does than to raise the awareness of these approaches then it has at least have acheived something.
 Moving on:
 
 3. Structural linguistics, in particular the work of Frege.
