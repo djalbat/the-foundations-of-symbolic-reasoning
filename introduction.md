@@ -59,8 +59,9 @@ Furthermore, it may come as a surprise to some but there is no broad agreement a
 Thus it seems unlikely that they exist universally and in perpetuity, however appealing such a belief may be.
 
 Fortunately intuitionism gives us an alternative way of viewing mathematical concepts, being itself a form of relativism.
-Within intuitionism we can formulate our own mathematical concepts and even which logical rules we use to reason about them.
-We do not search for some universal consistency, because we understand that such a consistency is illusory.
+Within intuitionism we can formulate our own mathematical concepts and even the logical rules we use to reason about them.
+And we do not search for universal consistency, because we understand that such a consistency is illusory.
+The parallels between intuitionsim and scientific method should be obvious and in fact we can extend this view to understand the nature of concepts more generally.
 Consider the question of what is justice.
 There is a branch of philosophy concerned with this question, namely ethics.
 But let us move away from philosophising for a moment and look at the question of what is justice from a more practical standpoint.
