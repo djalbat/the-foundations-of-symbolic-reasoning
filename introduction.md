@@ -50,7 +50,7 @@ The hypotheses of both theories can match observations to an extraordinary degre
 It is only an acceptance that these theories are wholly conceptual in nature that allows this situation to persist.
 We concede that there can be different scientific views of the world, so to speak, and thus scientific method can be considered as a form of relativism.
 
-On the other hand, many see mathematics as unique and special, and regard mathematical concepts as in some sense separate from our own understaning of them.
+On the other hand, many see mathematics as unique and special, and regard mathematical concepts as in some sense separate from our understaning of them.
 Consider the Platonic solids, for example, known since antiqutiy and often believed to have been there for the discovering, rather than having been invented by us.
 Unfortunately this is not the case, however.
 Mathematical concepts are just that, namely concepts, even those as seemingly natural as, say, the natural numbers.
