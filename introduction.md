@@ -64,13 +64,13 @@ And we do not strive for some kind of universal consistency, because we understa
 The parallels between intuitionsim and scientific method should be obvious here and in fact we can extend intuitionism further in order to understand not just the nature of mathematical and scientific concepts, but more general ones.
 
 To give an example, consider the question of what is justice.
-There is a branch of philosophy concerned with this question, namely ethics, but let us look at this question from a more practical standpoint.
+There is a branch of philosophy concerned with this question, namely ethics, but let us look at the question from a more practical standpoint.
 Whatever country you live in will have various laws, persons, institutions and so on that constitute its justice system.
 The law in particular encompasses divers statutes, processes and precedents, the adherence to which and the machinations of the justice system in general we think of as justice.
 Indeed, we talk of justice being done, of miscarriages of justice or of the wheels of justice, the latter almost as if justice were a physical thing.
 Perhaps not a physical thing, but nonetheless a tangible and recognisable concept.
 
-Such concepts are neither universal nor metaphysical.
+Such concepts are certainly not universal.
 If you were to move to a different country, for example, then the justice system and therefore the concept of justice would differ, perhaps markedly.
 To think of justice in this way is to think of it *intutitionistically*.
 We avoid the ethereal and instead root ourselves in the practical.
