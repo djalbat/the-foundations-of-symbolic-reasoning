@@ -77,9 +77,7 @@ We avoid the ethereal and instead root ourselves in the practical.
 Or, to put it another way, when considering *definitive* questions we eschew definitive answers and instead embrace *definite* ones.
 In doing so what we lose in universality we gain in utility.
 
-
-
-Now consider again the question of what is logic.
+In a similar vein, consider the question of what is logic.
 If we narrow the question down to what is propositional logic then Occam can be used to provide a precise answer.
 Actually let us narrow it down a little further to the question of what is minimal propositional logic.
 Here is an answer:
