@@ -66,12 +66,10 @@ The parallels between intuitionsim and scientific method should be obvious here 
 To give an example, consider the question of what is justice.
 There is a branch of philosophy concerned with this question, namely ethics, but let us look at this question from a more practical standpoint.
 Whatever country you live in will have various laws, persons, institutions and so on that constitute its justice system.
-The law in particular encompasses divers statutes, processes, precedents and so on, the adherence to which and the machinations of the justice system in general we think of as justice.
+The law in particular encompasses divers statutes, processes and precedents, the adherence to which and the machinations of the justice system in general we think of as justice.
 Indeed, we talk of justice being done, of miscarriages of justice or of the wheels of justice, the latter almost as if justice were a physical thing.
-Perhaps not a physical thing, but nonetheless tangible and recognisable.
-And although it is not possible to define justice precisely, at least in part because of the vagaries of interpreting the law, it is still defintely a thing, for want of a better way of putting it.
+Perhaps not a physical thing, but nonetheless a tangible and recognisable concept.
 
-In fact a better way of putting it would be to call it a concept.
 Such concepts are neither universal nor metaphysical.
 If you were to move to a different country, for example, then the justice system and therefore the concept of justice would differ, perhaps markedly.
 To think of justice in this way is to think of it *intutitionistically*.
