@@ -50,18 +50,17 @@ The hypotheses of both theories can match observations to an extraordinary degre
 It is only an acceptance that these theories are wholly conceptual in nature that allows this situation to persist.
 We concede that there can be different scientific views of the world, so to speak, and thus scientific method can be considered as a form of relativism.
 
-On the other hand, many see mathematics as unique and special, and regard mathematical concepts as in some sense separate from our understaning of them.
+On the other hand, many see mathematics and logic as unique and special, and regard mathematical and logical concepts as hainvg some objective existence aside from our understaning of them.
 Consider the Platonic solids, for example, known since antiqutiy and often believed to have been there for the discovering, rather than having been invented by us.
-Unfortunately this is not the case, however.
-Mathematical concepts are just that, namely concepts, even those as seemingly natural as, say, the natural numbers.
-We may perceive these concepts in nature but that is not to say that they exist aside from our perception of them.
-Furthermore, it may come as a surprise to some but there is no broad agreement about the nature of mathematical concepts, including the natural numbers.
+Arguably this is not the case, however.
+It could be argued that Mathematical and logical concepts are just that, namely concepts, even those as seemingly natural as, say, the natural numbers.
+We may perceive these concepts in nature but that is not to say that they exist objectively aside from our perception of them.
+Furthermore, it may come as a surprise to some but there is no broad agreement about the nature of mathematical and logical concepts.
 Thus it seems unlikely that they exist universally and in perpetuity, however appealing such a belief may be.
 
-Fortunately intuitionism gives us an alternative way of viewing mathematics, being itself a form of relativism.
-Within intuitionism we can formulate our own mathematical concepts, often based on what we perceive as reality, but nonetheless understood to be separate from these perceptions.
-And we do not strive for some kind of universal consistency, because we understand that such a consistency is illusory.
-The parallels between intuitionsim and scientific method should be obvious here and in fact we can extend intuitionism further in order to understand not just the nature of mathematical and scientific concepts, but more general ones.
+Fortunately intuitionism gives us an alternative way of viewing mathematics and logic, being itself a form of relativism.
+Within intuitionism we can formulate our own mathematical concepts and the logical rules we use to reason about them, often based on what we perceive as reality, but nonetheless understood to be separate from these perceptions.
+The parallels between intuitionsim and scientific method should be obvious here and in fact we can extend intuitionism further in order to understand not just the nature of mathematical, logical and scientific concepts, but more general ones.
 
 To give an example, consider the question of what is justice.
 There is a branch of philosophy concerned with this question, namely ethics, but let us look at the question from a more practical standpoint.
@@ -84,9 +83,9 @@ Here is an answer:
 
 [Open Mathematics - Minimal Propositinal Logic](https://openmathematics.org/package/minimal-propositional-logic)
 
-Thus minimal propositional logic can be defined as nothing but a collection of inference rules.
-Some would argue that this is not what minimal propositional logic is, of course.
-But to *define* it precisely in this way is certainly one way of doing so and arguably more useful than many an imprecise answer that a logician would give.
+Thus minimal propositional logic, indeed any logic, can be defined as nothing but a collection of inference rules.
+Some would argue that this is not what logics are, of course.
+But to *define* a logic precisely in this way is certainly one way of doing so and arguably more useful than many an imprecise answer that a logician might give.
 
 To continue, earlier it was claimed that we think and communicate intuitionistically.
 To see this, consider the statement "it is raining".
