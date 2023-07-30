@@ -85,7 +85,7 @@ Here is an answer:
 [Open Mathematics - Minimal Propositinal Logic](https://openmathematics.org/package/minimal-propositional-logic)
 
 Thus minimal propositional logic can be defined as nothing but a collection of inference rules.
-Some would argue that this is not what minimal propositional logic is, of course, and they would have a point.
+Some would argue that this is not what minimal propositional logic is, of course.
 But to *define* it precisely in this way is certainly one way of doing so and arguably more useful than many an imprecise answer that a logician would give.
 
 To continue, earlier it was claimed that we think and communicate intuitionistically.
