@@ -64,13 +64,12 @@ And we do not strive for some kind of universal consistency, because we understa
 The parallels between intuitionsim and scientific method should be obvious here and in fact we can extend intuitionism further in order to understand not just the nature of mathematical and scientific concepts, but more general ones.
 
 To give an example, consider the question of what is justice.
-There is a branch of philosophy concerned with this question, namely ethics, but let us look at the question of what is justice from a more practical standpoint.
+There is a branch of philosophy concerned with this question, namely ethics, but let us look at this question from a more practical standpoint.
 Whatever country you live in will have various laws, persons, institutions and so on that constitute its justice system.
-The law in particular encompasses divers statutes, processes, precedents, etc, the adherence to which and the machinations of the justice system in general we think of as justice.
+The law in particular encompasses divers statutes, processes, precedents and so on, the adherence to which and the machinations of the justice system in general we think of as justice.
 Indeed, we talk of justice being done, of miscarriages of justice or of the wheels of justice, the latter almost as if justice were a physical thing.
-Perhaps not a physical thing, but it is certainly for the most part tangible and recognisable.
+Perhaps not a physical thing, but nonetheless tangible and recognisable.
 And although it is not possible to define justice precisely, at least in part because of the vagaries of interpreting the law, it is still defintely a thing, for want of a better way of putting it.
-
 
 In fact a better way of putting it would be to call it a concept.
 Such concepts are neither universal nor metaphysical.
@@ -88,8 +87,6 @@ Actually let us narrow it down a little further to the question of what is minim
 Here is an answer:
 
 [Open Mathematics - Minimal Propositinal Logic](https://openmathematics.org/package/minimal-propositional-logic)
-
-
 
 Thus minimal propositional logic can be defined as nothing but a collection of inference rules.
 Some would argue that this is not what minimal propositional logic is, of course, and they would have a point.
