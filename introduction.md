@@ -61,14 +61,13 @@ Thus it seems unlikely that they exist universally and in perpetuity, however ap
 Fortunately intuitionism gives us an alternative way of viewing mathematics, being itself a form of relativism.
 Within intuitionism we can formulate our own mathematical concepts, often based on what we perceive as reality, but nonetheless understood to be separate from these perceptions.
 And we do not strive for some kind of universal consistency, because we understand that such a consistency is illusory.
-The parallels between intuitionsim and scientific method should be obvious here and in fact we can extend intuitionism further in order to understand not just the nature of mathematical and scientifica concepts, but more general ones.
+The parallels between intuitionsim and scientific method should be obvious here and in fact we can extend intuitionism further in order to understand not just the nature of mathematical and scientific concepts, but more general ones.
 
 To give an example, consider the question of what is justice.
-There is a branch of philosophy concerned with this question, namely ethics.
-But let us move away from philosophising for a moment and look at the question of what is justice from a more practical standpoint.
-Whatever country you live in will have various laws, persons, institutions, etc that constitute its justice system.
-The law in particular encompasses divers statutes, processes, precedents, etc, adherence to which and the machinations of the justice system in general we think of as justice.
-Indeed, we talk of justice being done; or of miscarriages of justice; or of the wheels of justice, the latter almost as if justice were a physical thing.
+There is a branch of philosophy concerned with this question, namely ethics, but let us look at the question of what is justice from a more practical standpoint.
+Whatever country you live in will have various laws, persons, institutions and so on that constitute its justice system.
+The law in particular encompasses divers statutes, processes, precedents, etc, the adherence to which and the machinations of the justice system in general we think of as justice.
+Indeed, we talk of justice being done, of miscarriages of justice or of the wheels of justice, the latter almost as if justice were a physical thing.
 Perhaps not a physical thing, but it is certainly for the most part tangible and recognisable.
 And although it is not possible to define justice precisely, at least in part because of the vagaries of interpreting the law, it is still defintely a thing, for want of a better way of putting it.
 
