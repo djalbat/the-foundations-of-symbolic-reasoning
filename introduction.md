@@ -87,6 +87,7 @@ Thus minimal propositional logic, indeed any logic, can be defined as nothing bu
 Some would argue that this is not what logics are, of course.
 But to *define* a logic precisely in this way is certainly one way of doing so and arguably more useful than many an imprecise answer that a logician might give.
 
+Along with the notion that 
 To continue, earlier it was claimed that we think and communicate intuitionistically.
 To see this, consider the statement "it is raining".
 Normally, we would not feel the need to additionally assert that such a statement were true.
