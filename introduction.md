@@ -88,12 +88,12 @@ Some would argue that this is not what logics are, of course.
 But to *define* a logic precisely in this way is certainly one way of doing so and arguably more useful than many an imprecise answer that a logician might give.
 
 Intuitionism's emphasis on the purely conceptual nature of mathematics and logic has a profound effect on the notion of truth.
-And just as we accept that the mathematical and logical concepts that we devise are not univiersal, so the notion of truth also looses any claim to universality.
-The comparsion with scientitic method is again instructive and we look again at the dichotomy of general relativity versus quantum electrodynamics.
-As we have already mentionied, the hypothtses of both match observations to an extraorddinary degreee, so which is true?
-The answer is neither, of course, unless we reconsider the notion of truth as being relative.
-We talk about scientific truths, if we choose to claim that these theories are true at all, buth these are relative truths.
-If fact, perhaps it is advisable not to say that a particular theory is true at all, and instead assert simply that a theory whose hypotheses closely match observation is no more that a good theory.
+Just as we accept that the mathematical and logical concepts that we devise are not univiersal, so the notion of their truthfulness also looses any claim to universality.
+The comparsion with scientitic method is again instructive here and so consider once more the dichotomy of general relativity versus quantum electrodynamics.
+As we have already mentionied, the hypotheses of both match observations to an extraorddinary degreee, so which is true?
+The answer is neither, of course, in any universal sense.
+We may talk about scientific truths, if we choose to claim that these theories are true at all, that is, buth these must be relative truths.
+If fact, perhaps it is advisable not to say that a particular theory is true at all, and instead assert simply that any theory the hypotheses of which closely match observation is no more that a good theory.
 
 
 
