@@ -89,9 +89,8 @@ But to *define* a logic precisely in this way is certainly one way of doing so a
 
 Intuitionism's emphasis on the purely conceptual nature of mathematics and logic also has a profound effect on the notion of truth.
 Because we accept that the mathematical and logical concepts that we devise are not univiersal, their truthfulness also looses any claim to universality.
-The comparsion with scientitic method is again instructive here and so we consider once more the dichotomy of general relativity versus quantum electrodynamics.
-As we have already mentioned, the hypotheses of both match observations to an extraorddinary degreee and yet they remain irreconcilable. 
-So which is true?
+The comparsion with scientitic method is again instructive and we recall the fact that the hypotheses of both general relativity and quantum electrodynamics match observations to an extraorddinary degree. 
+They remain irreconcilable, however, and so which is true?
 The answer has to be neither in any universal sense.
 Therefore perhaps it is best not to say that a particular theory is true at all, and instead simply assert that if the hypotheses of a thoery closely match observation then it is a good theory.
 
