@@ -95,7 +95,9 @@ So which is true?
 The answer has to be neither in any universal sense.
 Therefore perhaps it is best not to say that a particular theory is true at all, and instead simply assert that if the hypotheses of a thoery closely match observation then it is a good theory.
 
-To continue, earlier it was claimed that we think and communicate intuitionistically.
+Just as we can extend the intuitionistic view of mathematical, logical or scientific concepts to general ones such as justice,
+so the intuitionistic notion of truth can be extended to more general parlance.
+Earlier it was claimed that we think and communicate intuitionistically, for example.
 To see this, consider the statement "it is raining".
 Normally, we would not feel the need to additionally assert that such a statement were true.
 We would rarely say "it is true that it is raining", for example, or "it is raining is true", since the veractiy of the original statement would usually go without saying.
