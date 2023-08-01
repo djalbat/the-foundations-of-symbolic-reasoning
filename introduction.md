@@ -96,7 +96,7 @@ The answer has to be neither in any universal sense.
 Therefore perhaps it is best not to say that a particular theory is true at all, and instead simply assert that if the hypotheses of a thoery closely match observation then it is a good theory.
 
 Just as we can extend the intuitionistic view of mathematical, logical or scientific concepts to general ones such as justice,
-so the intuitionistic notion of truth can be extended to more general parlance.
+so the intuitionistic notion of truth can also be extended.
 Earlier it was claimed that we think and communicate intuitionistically, for example.
 To see this, consider the statement "it is raining".
 Normally, we would not feel the need to additionally assert that such a statement were true.
