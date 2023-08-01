@@ -102,6 +102,13 @@ Normally we would not feel the need to additionally assert that such a statement
 We would rarely say, for example, "it is true that it is raining" or "it is raining is true", because the veracity of the statement would go without saying.
 Indeed it is entirely possible to think and communicate without the encumberance of the dichotomy of truth and falsehood altogether, and we often do.
 We might use only positive statements, so to speak, the veracity of which is considered to be self evident.
+Without the concept of truth to hand we also loose its opposite, namely falsehood.
+But it is possible to get around this with neagation.
+Rather than saying that it is not true that it is raining, for example, we can simply say "it is not raining".
+Thus with negation, we obviate the need for falsehood.
+
+
+
 And it is enough to assert only that these statements hold, rather than that they are true.
 You may wonder, if we do not have the concept of falsehood to hand then how to do refute statements.
 The answer is that we have negation to hand.
