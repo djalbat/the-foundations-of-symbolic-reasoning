@@ -107,19 +107,17 @@ We can refute the statement "it is raining", for example, by saying "it is not r
 And, just as it is preferable to say that a particular scientific theory is good rather than true,
 simimlarly we can assert that a particular statement holds rather than asserting that it is true.
 
-
-
 It is of course possible to refute a statement by asserting that it is false.
 We might respond to the statement that "it is raining" with the statement "that's not true", where "not true" is synonymous with "false".
 This is in a sense to communicate classically rather than intuitionistically.
 In reality we segue between these two modes seemlessly and indeed sometimes it would be pedantic to draw a distinction.
 Nonetheless it is important to draw this distinction if only for the reason that the majority of us are vaguely familiar with the classical mode whereas few will be familiar with intuitionstic one.
 
-It is also worth noting that to draw attention to the distinction between classical and intutionistic reasoning is far from pedantry.
+Finally, we note that to draw attention to the distinction between classical and intutionistic reasoning is far from pedantry.
 Modern proof assistants usually operate in one of these two modes.
 Satisfiability solvers are inherently classical, for example, they *decide* whether statements are true or false.
 On the other hand modern proof assistansts largely operate intuitionistically, they *derive* or *deduce* statements that hold.
-Occasionally verification software can operate in one or other mode and occassionaliy the waters are muddlied, but generally this distinction is a very good rule of thumb.
+Occam falls into that latter category and we now look at each of these four elements in greater detail.
 
 [^1]: The word Occam is used somewhat mebulously here.
 It covers a suite of software and services together with the the theory that underlines them.
