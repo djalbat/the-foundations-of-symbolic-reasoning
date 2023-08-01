@@ -93,7 +93,7 @@ The comparsion with scientitic method is again instructive here and so we consid
 As we have already mentioned, the hypotheses of both match observations to an extraorddinary degreee and yet they remain irreconcilable. 
 So which is true?
 The answer has to be neither in any universal sense.
-So perhaps it is best not to say that a particular theory is true at all, and instead simply assert that if the hypotheses of a thoery closely match observation then it is a good theory.
+Therefore perhaps it is best not to say that a particular theory is true at all, and instead simply assert that if the hypotheses of a thoery closely match observation then it is a good theory.
 
 To continue, earlier it was claimed that we think and communicate intuitionistically.
 To see this, consider the statement "it is raining".
