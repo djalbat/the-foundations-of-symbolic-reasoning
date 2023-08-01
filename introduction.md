@@ -99,7 +99,7 @@ so the intuitionistic notion of truth can also be extended.
 Earlier it was claimed that we think and communicate intuitionistically, for example.
 To see this, consider the statement "it is raining".
 Normally we would not feel the need to additionally assert that such a statement were true.
-We would rarely say, for example, "it is true that it is raining" or "it is raining is true", because the veracity of the statement would go without saying.
+We would rarely say, for example, "it is true that it is raining" or "it is raining is true".
 Indeed it is entirely possible to think and communicate without the encumberance of the dichotomy of truth and falsehood altogether, and we often do.
 We might use only positive statements, so to speak, the veracity of which is considered to be self evident.
 Without the concept of truth to hand we also loose its opposite, namely falsehood.
