@@ -104,16 +104,12 @@ Indeed it is entirely possible to think and communicate without the encumberance
 We might use only positive statements, so to speak, the veracity of which is considered to be self evident.
 Without the concept of truth to hand we also loose its opposite, namely falsehood.
 But it is possible to get around this with neagation.
-Rather than saying that it is not true that it is raining, for example, we can simply say "it is not raining".
+We can refute the statement "it is raining", for example, by saying "it is not raining".
 Thus with negation, we obviate the need for falsehood.
+And, just as it is preferable to assert that a particular scientific theory is good rather than assert that is it true,
+simimlarly we assert that a particular statement holds rather than asserting that it is true.
 
 
-
-And it is enough to assert only that these statements hold, rather than that they are true.
-You may wonder, if we do not have the concept of falsehood to hand then how to do refute statements.
-The answer is that we have negation to hand.
-We can refute the statement "it is raining" by negating it, retorting "it is not raining".
-But this is still a positive statement in the sense that it is considered to hold, at least by the person who uttered it.
 
 It is of course possible to refute a statement by asserting that it is false.
 We might respond to the statement that "it is raining" with the statement "that's not true", where "not true" is synonymous with "false".
