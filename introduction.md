@@ -104,8 +104,8 @@ Indeed it is entirely possible to think and communicate without the encumberance
 We might use only positive statements, so to speak, the veracity of which is considered to be self evident.
 We can also make use of negation in order to obviate the need to assert that statements are false.
 We can refute the statement "it is raining", for example, by saying "it is not raining".
-And, just as it is preferable to assert that a particular scientific theory is good rather than assert that is it true,
-simimlarly we assert that a particular statement holds rather than asserting that it is true.
+And, just as it is preferable to say that a particular scientific theory is good rather than true,
+simimlarly we can assert that a particular statement holds rather than asserting that it is true.
 
 
 
