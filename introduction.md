@@ -1,22 +1,22 @@
 # Introduction
 
 I started writing Occam[^1] with a view to providing an improved front end for existing theorem provers.
-There turned out to be little interest in this from the wider community, however, but by the time I had come to this conclusion I was already committed to creating a formal reasoning system of my own.
+There turned out to be little interest in this from the wider community, however, but by the time I had come to this conclusion I was already committed to creating a system for formal reasoning of my own.
 The reason was that I became convinced by an alternative understanding of mathematics and logic that was not founded on what is usually referred to as set theory plus first order logic, nor was it founded on some type theory. 
 Rather it is based on the following approaches, what I call the four elephants.
-By the way, I should mention straight away that there is nothing heretical or even original in adopting any of these approaches.
+There is nothing heretical or even original in adopting any of these approaches, by the way.
 Much of the thinking behind them predates type theory, for example, and some of it predates set theory.
 So, the four elephants:
 
 1. Intuitionisism, due to Brouwer.
 2. Natural Deduction, due to Gentzen.
 
-In my opinion intuitionism and natural deduction together constitute the most significant advance in formal reasoning since the greeks invented logic,
-Intuitionsism frees us from the tyranny of the dichotomy of truth and falsehood whilst natural deduction separates reasoning from logic.
+In my opinion intuitionism and natural deduction together constitute the most significant advance in formal reasoning since the greeks invented logic.
+Intuitionsism frees us from the tyranny classical thinking whilst natural deduction separates reasoning from logic.
 Both are so ubiquitous as to be almost transparent, however, and therefore their importance is seldom recognised.
 We think and communicate intuitionistically just as much as we do so classically, for example;
 and natural deduction is so commonplace in the mathematical sciences, computer science in particular, that it seems to go completely unnoticed.
-So if this book does than to raise the awareness of these approaches then it has at least have acheived something.
+So if this book does no more than to raise the awareness of these approaches then it has at least have acheived something.
 Moving on:
 
 3. Structural linguistics, or ast least a part thereof, in particular the work of Frege.
