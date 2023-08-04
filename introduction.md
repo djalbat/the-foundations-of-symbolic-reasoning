@@ -13,8 +13,8 @@ So, the four elephants:
 
 In my opinion intuitionism and natural deduction together constitute the most significant advance in formal reasoning since the greeks invented logic.
 Intuitionsism frees us from the tyranny of classical thinking whilst natural deduction separates reasoning from logic.
-Both are so ubiquitous as to be almost transparent, however, and therefore their importance has seldom if ever been acknowledged.
-We think and communicate intuitionistically just as much as we do so classically, for example;
+Both are so ubiquitous as to be almost transparent, however, and their importance has seldom if ever been acknowledged.
+We think and communicate intuitionistically just as much as we do so classically, however;
 and natural deduction is so commonplace in the mathematical sciences, computer science in particular, that it seems to go completely unnoticed.
 So if this book does no more than to raise the awareness of these approaches then it has at least have acheived something.
 Moving on:
@@ -22,11 +22,18 @@ Moving on:
 3. Structural linguistics, or at least a part thereof, in particular the work of Frege.
 4. Modern grammars, specifically BNF, due to John Backus; regular expresions, due to Stephen Cole Kleene; and Unicode. 
 
-Each of these four elephants has a chapter devoted to it, but because intuitionism suffuses pretty much all of what follows it is worth expanding on it further here.
+Each of these four elephants has a chapter of this book devoted to it, but because intuitionism suffuses pretty much all of what follows it is worth expanding on it further here.
 Consider then the following list of questions.
 I claim that this book provides answers to all of them.
 Some may find this surprising or even shocking and some might accuse me of intellectual hubris, or worse.
-Still, here is the list, to which I could have added many more: What is truth What is mathematics? What is logic What is a theorem? What is an axiom? What is a proof What is a term? What is an expression? Are they fundamentally different What is a number? Specially, what are natural numbers, rational numbers, real numbers, etc What is meaning? That is, if I were to say "what do you mean?", what message am I trying to get across?
+Still, here is the list, to which I could have added many more: 
+
+* What is truth?
+* What is mathematics? What is logic?
+* What is a theorem? What is an axiom? What is a proof?
+* What is a term? What is an expression? Are they fundamentally different? 
+* What is a number? Specially, what are natural numbers, rational numbers, real numbers, etc 
+* What is meaning? That is, if I were to say "what do you mean?", what message am I trying to get across?
 * What is the Principle of Induction? Or to put it another way, why did Peano have to include it in his axioms?
 * What is a foundation for mathematics, logic or indeed for any form of symbolic reasoning? What is symbolic reasoning?
 
