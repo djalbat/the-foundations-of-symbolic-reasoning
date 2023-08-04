@@ -87,11 +87,11 @@ But to define a logic precisely in this way is certainly one way of doing so and
 Intuitionism's emphasis on the purely conceptual nature of mathematics and logic also has a profound effect on the notion of truth.
 Because we accept that the mathematical and logical concepts that we devise are not univiersal, their truthfulness also looses any claim to universality.
 The comparsion with scientitic method is again instructive and we recall the fact that the hypotheses of both general relativity and quantum electrodynamics match observations to an extraorddinary degree. 
-They remain irreconcilable, however, and so which is true?
+They remain irreconcilable, however, as we have already pointed out, and so which is true?
 The answer has to be neither in any universal sense.
 Therefore perhaps it is best not to say that a particular theory is true at all, and instead simply assert that if the hypotheses of a thoery closely match observation then it is a good theory.
 
-Just as we can extend the intuitionistic view of mathematical, logical or scientific concepts to general ones such as justice,
+Just as we can extend the intuitionistic view of mathematical and logical concepts past scientific and on to general ones such as justice,
 so the intuitionistic notion of truth can also be extended.
 Earlier it was claimed that we think and communicate intuitionistically, for example.
 To see this, consider the statement "it is raining".
@@ -100,9 +100,9 @@ We would rarely say, for example, "it is true that it is raining" or "it is rain
 Indeed it is entirely possible to think and communicate without the encumberance of the dichotomy of truth and falsehood altogether, and we often do.
 We might use only positive statements, so to speak, the veracity of which is considered to be self evident.
 We can also make use of negation in order to obviate the need to assert that statements are false.
-We can refute the statement "it is raining", for example, by saying "it is not raining".
+We can refute the statement "it is raining" by saying "it is not raining", for example.
 And, just as it is preferable to say that a particular scientific theory is good rather than true,
-simimlarly we can assert that a particular statement holds rather than asserting that it is true.
+simimlarly rather than asserting that a particular statement is true, we can assert that it holds.
 
 It is of course possible to refute a statement by asserting that it is false.
 We might respond to the statement that "it is raining" with the statement "that's not true", where "not true" is synonymous with "false".
