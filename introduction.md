@@ -114,7 +114,7 @@ Finally, we note that to draw attention to the distinction between classical and
 Modern proof assistants usually operate in one of these two modes.
 Satisfiability solvers are inherently classical, for example, they decide whether statements are true or false.
 On the other hand modern proof assistansts largely operate intuitionistically, they derive or deduce statements that hold.
-It almost goes without saying that Occam falls into tha latter category.
+It almost goes without saying that Occam falls into the latter category.
 
 [^1]: The word Occam is used somewhat mebulously here.
 It covers a suite of software and services together with the the theory that underlines them.
