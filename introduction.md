@@ -26,14 +26,7 @@ Each of these four elephants has a chapter devoted to it, but because intuitioni
 Consider then the following list of questions.
 I claim that this book provides answers to all of them.
 Some may find this surprising or even shocking and some might accuse me of intellectual hubris, or worse.
-Still, here is the list, to which I could have added many more:
-
-* What is truth?
-* What is mathematics? What is logic?
-* What is a theorem? What is an axiom? What is a proof?
-* What is a term? What is an expression? Are they fundamentally different?
-* What is a number? Specially, what are natural numbers, rational numbers, real numbers, etc?
-* What is meaning? That is, if I were to say "what do you mean?", what message am I trying to get across?
+Still, here is the list, to which I could have added many more: What is truth What is mathematics? What is logic What is a theorem? What is an axiom? What is a proof What is a term? What is an expression? Are they fundamentally different What is a number? Specially, what are natural numbers, rational numbers, real numbers, etc What is meaning? That is, if I were to say "what do you mean?", what message am I trying to get across?
 * What is the Principle of Induction? Or to put it another way, why did Peano have to include it in his axioms?
 * What is a foundation for mathematics, logic or indeed for any form of symbolic reasoning? What is symbolic reasoning?
 
@@ -75,9 +68,9 @@ Perhaps not a physical thing, but nonetheless a tangible and recognisable concep
 
 Such concepts are certainly not universal.
 If you were to move to a different country, for example, then the justice system and therefore the concept of justice would differ, perhaps markedly.
-To think of justice in this way is to think of it *intutitionistically*.
+To think of justice in this way is to think of it intutitionistically.
 We avoid the ethereal and instead root ourselves in the practical.
-Or, to put it another way, when considering *definitive* questions we eschew definitive answers and instead embrace *definite* ones.
+Or, to put it another way, when considering definitive questions we eschew definitive answers and instead embrace definite ones.
 In doing so what we lose in universality we gain in utility.
 
 In a similar vein, consider the question of what is logic.
@@ -89,7 +82,7 @@ Here is an answer:
 
 Thus minimal propositional logic, indeed any logic, can be defined as nothing but a collection of inference rules.
 Some would argue that this is not what logics are, of course.
-But to *define* a logic precisely in this way is certainly one way of doing so and arguably more useful than many an imprecise answer that a logician might give.
+But to define a logic precisely in this way is certainly one way of doing so and arguably more useful than many an imprecise answer that a logician might give.
 
 Intuitionism's emphasis on the purely conceptual nature of mathematics and logic also has a profound effect on the notion of truth.
 Because we accept that the mathematical and logical concepts that we devise are not univiersal, their truthfulness also looses any claim to universality.
@@ -119,8 +112,8 @@ Nonetheless it is important to draw this distinction if only for the reason that
 
 Finally, we note that to draw attention to the distinction between classical and intutionistic reasoning is far from pedantry.
 Modern proof assistants usually operate in one of these two modes.
-Satisfiability solvers are inherently classical, for example, they *decide* whether statements are true or false.
-On the other hand modern proof assistansts largely operate intuitionistically, they *derive* or *deduce* statements that hold.
+Satisfiability solvers are inherently classical, for example, they decide whether statements are true or false.
+On the other hand modern proof assistansts largely operate intuitionistically, they derive or deduce statements that hold.
 Occam falls into that latter category and we now look at each of these four elements in greater detail.
 
 [^1]: The word Occam is used somewhat mebulously here.
