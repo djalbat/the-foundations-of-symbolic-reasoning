@@ -12,8 +12,8 @@ So, the four elephants:
 2. Natural Deduction, due to Gentzen.
 
 In my opinion intuitionism and natural deduction together constitute the most significant advance in formal reasoning since the greeks invented logic.
-Intuitionsism frees us from the tyranny classical thinking whilst natural deduction separates reasoning from logic.
-Both are so ubiquitous as to be almost transparent, however, and therefore their importance is seldom recognised.
+Intuitionsism frees us from the tyranny of classical thinking whilst natural deduction separates reasoning from logic.
+Both are so ubiquitous as to be almost transparent, however, and therefore their importance has seldom if ever been acknowledged.
 We think and communicate intuitionistically just as much as we do so classically, for example;
 and natural deduction is so commonplace in the mathematical sciences, computer science in particular, that it seems to go completely unnoticed.
 So if this book does no more than to raise the awareness of these approaches then it has at least have acheived something.
@@ -22,7 +22,7 @@ Moving on:
 3. Structural linguistics, or at least a part thereof, in particular the work of Frege.
 4. Modern grammars, specifically BNF, due to John Backus; regular expresions, due to Stephen Cole Kleene; and Unicode. 
 
-Each of these four elephants has a chapter devoted to it, but because intuitionism suffuses pretty much all of what follows, it is worth expanding on it further here.
+Each of these four elephants has a chapter devoted to it, but because intuitionism suffuses pretty much all of what follows it is worth expanding on it further here.
 Consider then the following list of questions.
 I claim that this book provides answers to all of them.
 Some may find this surprising or even shocking and some might accuse me of intellectual hubris, or worse.
@@ -34,8 +34,9 @@ Still, here is the list, to which I could have added many more:
 * What is a term? What is an expression? Are they fundamentally different?
 * What is a number? Specially, what are natural numbers, rational numbers, real numbers, etc?
 * What is meaning? That is, if I were to say "what do you mean?", what am I trying to get across?
+* What is the Principle of Induction? Or put it another way, why did Peano conceived it? Is it foundational or can it be derived?
 
-No doubt the reason why claiming to have answers to these questions seems surprising is their somewhat metaphysical nature.
+No doubt one of the reasons that claiming to have answers to all of these questions and many more like them may seem surprising or even shocking is the somewhat metaphysical nature of some of them.
 However, we shall see that intuitionism can get us out of this fix.
 
 We begin by looking at scientific method, which will be familiar to most.
