@@ -49,20 +49,20 @@ The process of deduction will be more or less formal depending on the field of s
 
 This last point is crucial because theories that may do a very good job of describing the real world may nonetheless be irreconcilable.
 Consider the hackneyed dichotomy of general relativity versus quantum electrodynamics, for example.
-The hypotheses of both theories can match observations to an extraordinary degree and yet it is common knowledge that they cannot be reconciled despite more than half a century of effort.
+The hypotheses of both theories can match observations to an extraordinary degree and yet it is common knowledge that they have not been reconciled despite more than half a century of effort.
 Thus it is only an acceptance that these theories are wholly conceptual in nature that allows this situation to persist.
 We concede that there can be different scientific views of the world, so to speak, and thus scientific method can be considered as a form of relativism.
 
 On the other hand, perhaps because of their abstract nature many see mathematics and logic as unique and special, and regard mathematical and logical concepts as hainvg some kind of objective existence aside from our understaning of them.
 Consider the Platonic solids, for example, known since antiqutiy and often believed to have been there for the discovering, rather than having been invented by us.
 Arguably this is not the case, however.
-It could be argued that Mathematical and logical concepts are just that, namely concepts, even those as seemingly natural as, say, the natural numbers.
+Indeed it could be argued that mathematical and logical concepts are just that, namely concepts, even those as seemingly natural as, say, the natural numbers.
 We may perceive these concepts in nature but that is not that same as saying that they exist objectively aside from our perception of them.
 Furthermore, it may come as a surprise to some but there is no broad agreement about the nature of mathematical and logical concepts.
 Thus it seems unlikely that they exist universally and in perpetuity, however appealing such a belief may be.
 
 Fortunately intuitionism gives us an alternative way of viewing mathematics and logic, being itself a form of relativism.
-Within intuitionism we can formulate our own mathematical concepts and the logical rules we use to reason about them, often based on what we perceive as reality, but nonetheless understood to be separate from these perceptions.
+Within intuitionism we can formulate our own mathematical concepts and the logical rules we use to reason about them, often based on what we perceive as reality, but nonetheless understood to be separate from it.
 The parallels between intuitionsim and scientific method should be obvious here. 
 In fact we can extend intuitionism from an understanding of mathematical and logical concepts, past scientific concepts and on to more general ones.
 
@@ -78,18 +78,7 @@ If you were to move to a different country, for example, then the justice system
 To think of justice in this way is to think of it intutitionistically.
 We avoid the ethereal and instead root ourselves in the practical.
 Or, to put it another way, when considering definitive questions we eschew definitive answers and instead embrace definite ones.
-In doing so what we lose in universality we gain in utility.
-
-In a similar vein, consider the question of what is logic.
-If we narrow the question down to what is propositional logic then Occam can be used to provide a precise answer.
-Actually let us narrow it down a little further to the question of what is minimal propositional logic.
-Here is an answer:
-
-[Open Mathematics - Minimal Propositinal Logic](https://openmathematics.org/package/minimal-propositional-logic)
-
-Thus minimal propositional logic, indeed any logic, can be defined as nothing but a collection of inference rules.
-Some would argue that this is not what logics are, of course.
-But to define a logic precisely in this way is certainly one way of doing so and arguably more useful than many an imprecise answer that a logician might give.
+In doing so what we loose in universality we gain in utility.
 
 Intuitionism's emphasis on the purely conceptual nature of mathematics and logic also has a profound effect on the notion of truth.
 Because we accept that the mathematical and logical concepts that we devise are not univiersal, their truthfulness also looses any claim to universality.
@@ -98,8 +87,7 @@ They remain irreconcilable, however, as we have already pointed out, and so whic
 The answer has to be neither in any universal sense.
 Therefore perhaps it is best not to say that a particular theory is true at all, and instead simply assert that if the hypotheses of a thoery closely match observation then it is a good theory.
 
-Just as we can extend the intuitionistic view of mathematical and logical concepts past scientific and on to general ones such as justice,
-so the intuitionistic notion of truth can also be extended.
+Just as we can extend the intuitionistic view of mathematical and logical concepts past scientific and on to general ones, so the intuitionistic notion of truth can also be extended.
 Earlier it was claimed that we think and communicate intuitionistically, for example.
 To see this, consider the statement "it is raining".
 Normally we would not feel the need to additionally assert that such a statement were true.
@@ -108,14 +96,13 @@ Indeed it is entirely possible to think and communicate without the encumberance
 We might use only positive statements, so to speak, the veracity of which is considered to be self evident.
 We can also make use of negation in order to obviate the need to assert that statements are false.
 We can refute the statement "it is raining" by saying "it is not raining", for example.
-And, just as it is preferable to say that a particular scientific theory is good rather than true,
-simimlarly rather than asserting that a particular statement is true, we can assert that it holds.
+And, just as it is preferable to say that a particular scientific theory is good rather than it is true, so rather than asserting that a particular statement is true, we can assert that it holds.
 
 It is possible to refute a statement by asserting that it is false, of course.
 We might respond to the statement that "it is raining" with the statement "that's not true", where "not true" is synonymous with "false".
 This is in a sense to communicate classically rather than intuitionistically.
 In reality we segue between these two modes seemlessly and indeed sometimes it would be pedantic to draw a distinction.
-Nonetheless it is important to draw this distinction if only for the reason that the majority of us are vaguely familiar with the classical mode whereas few will be familiar with intuitionstic one.
+Nonetheless it is important to draw this distinction if only for the reason that the majority of us are vaguely familiar with the classical mode of communication whereas few will be familiar with intuitionstic one.
 
 Finally, we note that to draw attention to the distinction between classical and intutionistic reasoning is far from pedantry.
 Modern proof assistants usually operate in one of these two modes.
