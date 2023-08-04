@@ -41,29 +41,30 @@ No doubt one of the reasons why claiming to have answers to all of these questio
 Nonetheless, we will see that intuitionism can get us out of this fix.
 
 We begin by looking at scientific method, which will be familiar to most.
-Broadly speaking, when following scientific method we make observations of what we perceive to be the real world and use these as assumptions for a theory.
-We then deduce certain conclusions within that theory, which we them ratify by further observation.
+Broadly speaking, when we follow follow scientific method we make observations of what we perceive to be the real world and use these as assumptions for a theory.
+We then deduce certain conclusions within that theory, which we go on to ratify by further observation.
 If our conclusions match closely with observation then we say that the theory is a good one.
 If they do not then no matter how intrinsically appealling the theory may be, we must ditch it, or at least amend it.
 The process of deduction will be more or less formal depending on the field of study but what is common to all is that the theory is seen as just that, namely a collection of interrelated concepts.
 
 This last point is crucial because theories that may do a very good job of describing the real world may nonetheless be irreconcilable.
 Consider the hackneyed dichotomy of general relativity versus quantum electrodynamics, for example.
-The hypotheses of both theories can match observations to an extraordinary degree and yet it is common knowledge that they remain irreconcilable despite more than half a century of effort.
-It is only an acceptance that these theories are wholly conceptual in nature that allows this situation to persist.
+The hypotheses of both theories can match observations to an extraordinary degree and yet it is common knowledge that they cannot be reconciled despite more than half a century of effort.
+Thus it is only an acceptance that these theories are wholly conceptual in nature that allows this situation to persist.
 We concede that there can be different scientific views of the world, so to speak, and thus scientific method can be considered as a form of relativism.
 
-On the other hand, many see mathematics and logic as unique and special, and regard mathematical and logical concepts as hainvg some objective existence aside from our understaning of them.
+On the other hand, perhaps because of their abstract nature many see mathematics and logic as unique and special, and regard mathematical and logical concepts as hainvg some kind of objective existence aside from our understaning of them.
 Consider the Platonic solids, for example, known since antiqutiy and often believed to have been there for the discovering, rather than having been invented by us.
 Arguably this is not the case, however.
 It could be argued that Mathematical and logical concepts are just that, namely concepts, even those as seemingly natural as, say, the natural numbers.
-We may perceive these concepts in nature but that is not to say that they exist objectively aside from our perception of them.
+We may perceive these concepts in nature but that is not that same as saying that they exist objectively aside from our perception of them.
 Furthermore, it may come as a surprise to some but there is no broad agreement about the nature of mathematical and logical concepts.
 Thus it seems unlikely that they exist universally and in perpetuity, however appealing such a belief may be.
 
 Fortunately intuitionism gives us an alternative way of viewing mathematics and logic, being itself a form of relativism.
 Within intuitionism we can formulate our own mathematical concepts and the logical rules we use to reason about them, often based on what we perceive as reality, but nonetheless understood to be separate from these perceptions.
-The parallels between intuitionsim and scientific method should be obvious here and in fact we can extend intuitionism further in order to understand not just the nature of mathematical, logical and scientific concepts, but more general ones.
+The parallels between intuitionsim and scientific method should be obvious here. 
+In fact we can extend intuitionism from an understanding of mathematical and logical concepts, past scientific concepts and on to more general ones.
 
 To give an example, consider the question of what is justice.
 There is a branch of philosophy concerned with this question, namely ethics, but let us look at the question from a more practical standpoint.
