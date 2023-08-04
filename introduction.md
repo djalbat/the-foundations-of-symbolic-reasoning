@@ -33,11 +33,12 @@ Still, here is the list, to which I could have added many more:
 * What is a theorem? What is an axiom? What is a proof?
 * What is a term? What is an expression? Are they fundamentally different?
 * What is a number? Specially, what are natural numbers, rational numbers, real numbers, etc?
-* What is meaning? That is, if I were to say "what do you mean?", what am I trying to get across?
-* What is the Principle of Induction? Or put it another way, why did Peano conceived it? Is it foundational or can it be derived?
+* What is meaning? That is, if I were to say "what do you mean?", what message am I trying to get across?
+* What is the Principle of Induction? Or to put it another way, why did Peano have to include it in his axioms?
+* What is a foundation for mathematics, logic or indeed for any form of symbolic reasoning? What is symbolic reasoning?
 
-No doubt one of the reasons that claiming to have answers to all of these questions and many more like them may seem surprising or even shocking is the somewhat metaphysical nature of some of them.
-However, we shall see that intuitionism can get us out of this fix.
+No doubt one of the reasons why claiming to have answers to all of these questions and many more like them may seem surprising or even shocking to some is their somewhat metaphysical nature.
+Nonetheless, we will see that intuitionism can get us out of this fix.
 
 We begin by looking at scientific method, which will be familiar to most.
 Broadly speaking, when following scientific method we make observations of what we perceive to be the real world and use these as assumptions for a theory.
