@@ -19,7 +19,7 @@ and natural deduction is so commonplace in the mathematical sciences, computer s
 So if this book does no more than to raise the awareness of these approaches then it has at least have acheived something.
 Moving on:
 
-3. Structural linguistics, or ast least a part thereof, in particular the work of Frege.
+3. Structural linguistics, or at least a part thereof, in particular the work of Frege.
 4. Modern grammars, specifically BNF, due to John Backus; regular expresions, due to Stephen Cole Kleene; and Unicode. 
 
 Each of these four elephants has a chapter devoted to it, but because intuitionism suffuses pretty much all of what follows, it is worth expanding on it further here.
@@ -28,11 +28,12 @@ I claim that this book provides answers to all of them.
 Some may find this surprising or even shocking and some might accuse me of intellectual hubris, or worse.
 Still, here is the list, to which I could have added many more:
 
-1. What is truth?
-2. What is mathematics?
-3. What is logic?
-4. What is meaning? 
-5. What is a number?
+* What is truth?
+* What is mathematics? What is logic?
+* What is a theorem? What is an axiom? What is a proof?
+* What is a term? What is an expression? Are they fundamentally different?
+* What is a number? Specially, what are natural numbers, rational numbers, real numbers, etc?
+* What is meaning? That is, if I were to say "what do you mean?", what am I trying to get across?
 
 No doubt the reason why claiming to have answers to these questions seems surprising is their somewhat metaphysical nature.
 However, we shall see that intuitionism can get us out of this fix.
