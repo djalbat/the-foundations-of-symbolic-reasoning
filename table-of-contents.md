@@ -1,5 +1,3 @@
-# The Foundations of Symbolic Reasoning
-
 * [Introduction](./introduction.md)
 * Intuitionism: Domains of Reasoning
 * Natural Deduction: Syntactic Consequence
@@ -8,7 +6,3 @@
 * Foundations: Concepts and Processes
 * A First Example: Deriving the Principle of Induction
 * An advanced Example: Constructing the Real Numbers
-
-## Contact
-
-* james.smith@djalbat.com
