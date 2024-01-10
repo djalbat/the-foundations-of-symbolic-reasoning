@@ -8,19 +8,19 @@ There is nothing heretical or even original in adopting any of these approaches,
 Much of the thinking behind them predates type theory, for example, and some of it predates set theory.
 So, the four elephants:
 
-1. Intuitionisism, due to Brouwer.
+1. Intuitionism, due to Brouwer.
 2. Natural Deduction, due to Gentzen.
 
 In my opinion intuitionism and natural deduction together constitute the most significant advance in formal reasoning since the greeks invented logic.
-Intuitionsism frees us from the tyranny of classical thinking whilst natural deduction separates reasoning from logic.
+Intuitionism frees us from the tyranny of classical thinking whilst natural deduction separates reasoning from logic.
 Both are so ubiquitous as to be almost transparent, however, and their importance has seldom if ever been acknowledged.
 We think and communicate intuitionistically just as much as we do so classically, however;
 and natural deduction is so commonplace in the mathematical sciences, computer science in particular, that it seems to go completely unnoticed.
-So if this book does no more than to raise the awareness of these approaches then it has at least have acheived something.
+So if this book does no more than to raise the awareness of these approaches then it has at least have achieved something.
 Moving on:
 
 3. Structural linguistics, or at least a part thereof, in particular the work of Frege.
-4. Modern grammars, specifically BNF, due to John Backus; regular expresions, due to Stephen Cole Kleene; and Unicode. 
+4. Modern grammars, specifically BNF, due to John Backus; regular expressions, due to Stephen Cole Kleene; and Unicode. 
 
 Each of these four elephants has a chapter of this book devoted to it, but because intuitionism suffuses pretty much all of what follows it is worth expanding on it further here.
 Consider then the following list of questions.
@@ -53,7 +53,7 @@ The hypotheses of both theories can match observations to an extraordinary degre
 Thus it is only an acceptance that these theories are wholly conceptual in nature that allows this situation to persist.
 We concede that there can be different scientific views of the world, so to speak, and thus scientific method can be considered as a form of relativism.
 
-On the other hand, perhaps because of their abstract nature many see mathematics and logic as unique and special, and regard mathematical and logical concepts as hainvg some kind of objective existence aside from our understaning of them.
+On the other hand, perhaps because of their abstract nature many see mathematics and logic as unique and special, and regard mathematical and logical concepts as hainvg some kind of objective existence aside from our understanding of them.
 Consider the Platonic solids, for example, known since antiqutiy and often believed to have been there for the discovering, rather than having been invented by us.
 Arguably this is not the case, however.
 Indeed it could be argued that mathematical and logical concepts are just that, namely concepts, even those as seemingly natural as, say, the natural numbers.
@@ -63,7 +63,7 @@ Thus it seems unlikely that they exist universally and in perpetuity, however ap
 
 Fortunately intuitionism gives us an alternative way of viewing mathematics and logic, being itself a form of relativism.
 Within intuitionism we can formulate our own mathematical concepts and the logical rules we use to reason about them, often based on what we perceive as reality, but nonetheless understood to be separate from it.
-The parallels between intuitionsim and scientific method should be obvious here. 
+The parallels between intuitionism and scientific method should be obvious here. 
 In fact we can extend intuitionism from an understanding of mathematical and logical concepts, past scientific concepts and on to more general ones.
 
 To give an example, consider the question of what is justice.
@@ -75,14 +75,14 @@ Perhaps not a physical thing, but nonetheless a tangible and recognisable concep
 
 Such concepts are certainly not universal.
 If you were to move to a different country, for example, then the justice system and therefore the concept of justice would differ, perhaps markedly.
-To think of justice in this way is to think of it intutitionistically.
+To think of justice in this way is to think of it intuitionistically.
 We avoid the ethereal and instead root ourselves in the practical.
 Or, to put it another way, when considering definitive questions we eschew definitive answers and instead embrace definite ones.
 In doing so what we loose in universality we gain in utility.
 
 Intuitionism's emphasis on the purely conceptual nature of mathematics and logic also has a profound effect on the notion of truth.
-Because we accept that the mathematical and logical concepts that we devise are not univiersal, their truthfulness also looses any claim to universality.
-The comparsion with scientitic method is again instructive and we recall the fact that the hypotheses of both general relativity and quantum electrodynamics match observations to an extraorddinary degree. 
+Because we accept that the mathematical and logical concepts that we devise are not universal, their truthfulness also looses any claim to universality.
+The comparison with scientific method is again instructive and we recall the fact that the hypotheses of both general relativity and quantum electrodynamics match observations to an extraordinary degree. 
 They remain irreconcilable, however, as we have already pointed out, and so which is true?
 The answer has to be neither in any universal sense.
 Therefore perhaps it is best not to say that a particular theory is true at all, and instead simply assert that if the hypotheses of a thoery closely match observation then it is a good theory.
@@ -92,7 +92,7 @@ Earlier it was claimed that we think and communicate intuitionistically, for exa
 To see this, consider the statement "it is raining".
 Normally we would not feel the need to additionally assert that such a statement were true.
 We would rarely say, for example, "it is true that it is raining" or "it is raining is true".
-Indeed it is entirely possible to think and communicate without the encumberance of the dichotomy of truth and falsehood altogether, and we often do.
+Indeed it is entirely possible to think and communicate without the encumbrance of the dichotomy of truth and falsehood altogether, and we often do.
 We might use only positive statements, so to speak, the veracity of which is considered to be self evident.
 We can also make use of negation in order to obviate the need to assert that statements are false.
 We can refute the statement "it is raining" by saying "it is not raining", for example.
@@ -101,15 +101,15 @@ And, just as it is preferable to say that a particular scientific theory is good
 It is possible to refute a statement by asserting that it is false, of course.
 We might respond to the statement that "it is raining" with the statement "that's not true", where "not true" is synonymous with "false".
 This is in a sense to communicate classically rather than intuitionistically.
-In reality we segue between these two modes seemlessly and indeed sometimes it would be pedantic to draw a distinction.
-Nonetheless it is important to draw this distinction if only for the reason that the majority of us are vaguely familiar with the classical mode of communication whereas few will be familiar with intuitionstic one.
+In reality we segue between these two modes seamlessly and indeed sometimes it would be pedantic to draw a distinction.
+Nonetheless it is important to draw this distinction if only for the reason that the majority of us are vaguely familiar with the classical mode of communication whereas few will be familiar with intuitionistic one.
 
-Finally, we note that to draw attention to the distinction between classical and intutionistic reasoning is far from pedantry.
+Finally, we note that to draw attention to the distinction between classical and intuitionistic reasoning is far from pedantry.
 Modern proof assistants usually operate in one of these two modes.
 Satisfiability solvers are inherently classical, for example, they decide whether statements are true or false.
-On the other hand modern proof assistansts largely operate intuitionistically, they derive or deduce statements that hold.
+On the other hand modern proof assistants largely operate intuitionistically, they derive or deduce statements that hold.
 It almost goes without saying that Occam falls into the latter category.
 
-[^1]: The word Occam is used somewhat mebulously here.
+[^1]: The word Occam is used somewhat nebulously here.
 It covers a suite of software and services together with the the theory that underlines them.
 This book is an apologia for the latter and there is a companion book, called The Occam User Manual, that covers the former.
