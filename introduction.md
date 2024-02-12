@@ -2,10 +2,10 @@
 
 I started writing Occam[^1] with a view to providing an improved front end for existing theorem provers.
 There turned out to be little interest in this from the wider community, however, but by the time I had come to this conclusion I was already committed to creating a system for formal reasoning of my own.
-The reason was that I became convinced by an alternative understanding of mathematics and logic that was not founded on what is usually referred to as set theory plus first order logic, nor was it founded on some type theory. 
+The reason for this was that I became convinced by an alternative understanding of mathematics and logic that was not founded on what is usually referred to as set theory plus first order logic, nor was it founded on some type theory or other. 
 Rather it is based on the following approaches, what I call the four elephants.
 By the way, there is nothing heretical or even original in adopting any of these approaches.
-Much of the thinking behind them predates type theory, for example, and some of it predates set theory.
+Much of the thinking behind them predates and indeed underlies type theories, for example, and some of it predates set theory.
 So, the first two of the four elephants:
 
 1. Intuitionism, due to Brouwer.
@@ -13,7 +13,7 @@ So, the first two of the four elephants:
 
 In my opinion intuitionism and natural deduction together constitute the most significant advance in formal reasoning since the greeks invented logic.
 Intuitionism frees us from the tyranny of classical thinking whilst natural deduction separates reasoning from logic.
-Both are so ubiquitous as to be almost transparent, however, and their importance has seldom if ever been acknowledged.
+Both are so ubiquitous as to be almost transparent, however, and their importance is seldom acknowledged.
 We think and communicate intuitionistically just as much as we do so classically, however;
 and natural deduction is so commonplace in the mathematical sciences, computer science in particular, that it seems to go completely unnoticed.
 So if this book does no more than to raise the awareness of these approaches then it has at least have achieved something.
@@ -22,7 +22,7 @@ Moving on:
 3. Structural linguistics, or at least a part thereof, in particular the work of Frege.
 4. Modern grammars, specifically BNF, due to John Backus; regular expressions, due to Stephen Cole Kleene; and Unicode. 
 
-Each of these four elephants has a chapter of this book devoted to it, but because intuitionism suffuses pretty much all of what follows it is worth expanding on it further here.
+Each of these four elephants has a chapter devoted to it, but because intuitionism suffuses pretty much all of what follows it is worth expanding on it a little further here.
 Consider then the following list of questions.
 I claim that this book provides answers to all of them.
 Some may find this surprising or even shocking and some might accuse me of intellectual hubris, or worse.
