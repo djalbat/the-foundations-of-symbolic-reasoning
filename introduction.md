@@ -4,9 +4,9 @@ I started writing Occam[^1] with a view to providing an improved front end for e
 There turned out to be little interest in this from the wider community, however, but by the time I had come to this conclusion I was already committed to creating a system for formal reasoning of my own.
 The reason was that I became convinced by an alternative understanding of mathematics and logic that was not founded on what is usually referred to as set theory plus first order logic, nor was it founded on some type theory. 
 Rather it is based on the following approaches, what I call the four elephants.
-There is nothing heretical or even original in adopting any of these approaches, by the way.
+By the way, there is nothing heretical or even original in adopting any of these approaches.
 Much of the thinking behind them predates type theory, for example, and some of it predates set theory.
-So, the four elephants:
+So, the first two of the four elephants:
 
 1. Intuitionism, due to Brouwer.
 2. Natural Deduction, due to Gentzen.
