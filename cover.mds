@@ -1,0 +1,22 @@
+padding-top: 128pt;
+background-colour: #649664;
+
+primaryHeading,
+secondaryHeading {
+  colour: #022002;
+  text-align: left;
+  font-weight: normal;
+  margin-left: 64pt;
+  text-transform: uppercase;
+}
+
+primaryHeading {
+  width: 480pt;
+  font-size: 48pt;
+  line-height: 1.25;
+}
+
+secondaryHeading {
+  font-size: 24pt;
+  margin-top: 64pt;
+}
