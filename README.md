@@ -1,3 +1,4 @@
+
 # The Foundations of Symbolic Reasoning
 
 * [Half title](half-title.md)

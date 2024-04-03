@@ -1,3 +1,4 @@
+
 * [Introduction](./introduction.md)
 * Intuitionism: Domains of Reasoning
 * Natural Deduction: Syntactic Consequence

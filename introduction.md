@@ -1,6 +1,7 @@
+
 # Introduction
 
-I started writing Occam[^1] with a view to providing an improved front end for existing theorem provers.
+I started writing Occam[^occam] with a view to providing an improved front end for existing theorem provers.
 There turned out to be little interest in this from the wider community, however, but by the time I had come to this conclusion I was already committed to creating a system for formal reasoning of my own.
 The reason for this was that I became convinced by an alternative understanding of mathematics and logic that was not founded on what is usually referred to as set theory plus first order logic, nor was it founded on some type theory or other. 
 Rather it is based on the following approaches, what I call the four elephants.
@@ -110,6 +111,6 @@ Satisfiability solvers are inherently classical, for example, they decide whethe
 On the other hand modern proof assistants largely operate intuitionistically, they derive or deduce statements that hold.
 It almost goes without saying that Occam falls into the latter category.
 
-[^1]: The word Occam is used somewhat nebulously here.
+[^occam]: The word Occam is used somewhat nebulously here.
 It covers a suite of software and services together with the the theory that underlines them.
 This book is an apologia for the latter and there is a companion book, called The Occam User Manual, that covers the former.
