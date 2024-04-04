@@ -1,4 +1,3 @@
-
 # Introduction
 
 I started writing Occam[^occam] with a view to providing an improved front end for existing theorem provers.
