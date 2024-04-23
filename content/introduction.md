@@ -113,3 +113,6 @@ It almost goes without saying that Occam falls into the latter category.
 [^occam]: The word Occam is used somewhat nebulously here.
 It covers a suite of software and services together with the the theory that underlines them.
 This book is an apologia for the latter and there is a companion book, called The Occam User Manual, that covers the former.
+
+@footnotes
+

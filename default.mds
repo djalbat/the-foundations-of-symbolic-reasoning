@@ -1,5 +1,5 @@
-blockListing,
-inlineListing {
-  colour: #000;
-  background-colour: #eee;
+@media web {
+  division division {
+    padding: 24pt;
+  }
 }
