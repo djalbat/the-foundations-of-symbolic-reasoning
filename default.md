@@ -1,3 +1,3 @@
-@import cover.md
-@import front-matter.md
-@import content.md
+@include cover.md
+@include front-matter.md
+@include content.md

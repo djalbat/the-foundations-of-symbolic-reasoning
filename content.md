@@ -1,1 +1,3 @@
-@import content/introduction.md
+@ignore
+
+@include content/introduction.md

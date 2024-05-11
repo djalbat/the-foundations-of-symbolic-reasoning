@@ -1,5 +1,1 @@
-@media web {
-  division division {
-    padding: 24pt;
-  }
-}
+padding: 24pt;

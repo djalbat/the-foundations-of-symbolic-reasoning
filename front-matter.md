@@ -1,3 +1,3 @@
-@import front-matter/half-title.md
-@import front-matter/dedication.md
-@import front-matter/contents.md
+@include front-matter/half-title.md
+@include front-matter/dedication.md
+@include front-matter/contents.md
