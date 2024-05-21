@@ -6,6 +6,7 @@ secondaryHeading {
   margin: auto;
   text-align: center;
   font-weight: normal;
+  font-family: "Computer Modern Serif";
   text-transform: uppercase;
 }
 
