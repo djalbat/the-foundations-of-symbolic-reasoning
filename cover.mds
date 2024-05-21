@@ -14,12 +14,12 @@ secondaryHeading {
 
 primaryHeading {
   font-size: 40pt;
+  margin-top: 128pt;
   line-height: 1.5;
-  padding-top: 196pt;
 }
 
 secondaryHeading {
   font-size: 24pt;
-  margin-top: 64pt;
-  padding-bottom: 256pt;
+  margin-top: 256pt;
+  margin-bottom: 128pt;
 }

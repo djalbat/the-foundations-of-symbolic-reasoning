@@ -1,5 +1,3 @@
-padding: 0;
-
 primaryHeading,
 secondaryHeading {
   width: 300pt;
@@ -12,12 +10,12 @@ secondaryHeading {
 
 primaryHeading {
   font-size: 30pt;
+  margin-top: 128pt;
   line-height: 1.5;
-  padding-top: 128pt;
 }
 
 secondaryHeading {
   font-size: 18pt;
-  margin-top: 64pt;
-  padding-bottom: 256pt;
+  margin-top: 256pt;
+  margin-bottom: 128pt;
 }
