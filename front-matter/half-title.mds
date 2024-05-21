@@ -1,21 +1,22 @@
 padding: 0;
-padding-top: 160pt;
 
 primaryHeading,
 secondaryHeading {
-  text-align: left;
+  width: 300pt;
+  margin: auto;
+  text-align: center;
   font-weight: normal;
-  margin-left: 64pt;
   text-transform: uppercase;
 }
 
 primaryHeading {
-  width: 300pt;
   font-size: 30pt;
-  line-height: 1.25;
+  line-height: 1.5;
+  padding-top: 128pt;
 }
 
 secondaryHeading {
   font-size: 18pt;
-  margin-top: 48pt;
+  margin-top: 64pt;
+  padding-bottom: 256pt;
 }

@@ -1,22 +1,24 @@
-colour: #e9f3e9;
-padding-top: 128pt;
+padding: 0;
 background-colour: #1a5f1a;
 
 primaryHeading,
 secondaryHeading {
+  width: 400pt;
   margin: auto;
+  colour: #e9f3e9;
   text-align: center;
   font-weight: normal;
   text-transform: uppercase;
 }
 
 primaryHeading {
-  width: 400pt;
   font-size: 40pt;
   line-height: 1.5;
+  padding-top: 128pt;
 }
 
 secondaryHeading {
   font-size: 24pt;
   margin-top: 64pt;
+  padding-bottom: 256pt;
 }
