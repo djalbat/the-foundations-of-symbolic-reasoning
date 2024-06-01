@@ -115,4 +115,3 @@ It covers a suite of software and services together with the the theory that und
 This book is an apologia for the latter and there is a companion book, called The Occam User Manual, that covers the former.
 
 @footnotes
-

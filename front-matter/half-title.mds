@@ -1,7 +1,13 @@
+padding: 0;
+display: flex;
+row-gap: 128pt;
+align-items: center;
+flex-direction: column;
+justify-content: center;
+
 primaryHeading,
 secondaryHeading {
   width: 300pt;
-  margin: auto;
   text-align: center;
   font-weight: normal;
   font-family: "Computer Modern Serif";
@@ -10,12 +16,9 @@ secondaryHeading {
 
 primaryHeading {
   font-size: 30pt;
-  margin-top: 128pt;
-  line-height: 1.5;
+  line-height: 40pt;
 }
 
 secondaryHeading {
   font-size: 18pt;
-  margin-top: 256pt;
-  margin-bottom: 128pt;
 }
