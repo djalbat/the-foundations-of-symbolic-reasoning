@@ -44,7 +44,7 @@ We begin by looking at scientific method, which will be familiar to most.
 Broadly speaking, when we follow follow scientific method we make observations of what we perceive to be the real world and use these as assumptions for a theory.
 We then deduce certain conclusions within that theory, which we go on to ratify by further observation.
 If our conclusions match closely with observation then we say that the theory is a good one.
-If they do not then no matter how intrinsically appealling the theory may be, we must ditch it, or at least amend it.
+If they do not then no matter how intrinsically appealing the theory may be, we must ditch it, or at least amend it.
 The process of deduction will be more or less formal depending on the field of study but what is common to all is that the theory is seen as just that, namely a collection of interrelated concepts.
 
 This last point is crucial because theories that may do a very good job of describing the real world may nonetheless be irreconcilable.
@@ -53,7 +53,7 @@ The hypotheses of both theories can match observations to an extraordinary degre
 Thus it is only an acceptance that these theories are wholly conceptual in nature that allows this situation to persist.
 We concede that there can be different scientific views of the world, so to speak, and thus scientific method can be considered as a form of relativism.
 
-On the other hand, perhaps because of their abstract nature many see mathematics and logic as unique and special, and regard mathematical and logical concepts as hainvg some kind of objective existence aside from our understanding of them.
+On the other hand, perhaps because of their abstract nature many see mathematics and logic as unique and special, and regard mathematical and logical concepts as having some kind of objective existence aside from our understanding of them.
 Consider the Platonic solids, for example, known since antiqutiy and often believed to have been there for the discovering, rather than having been invented by us.
 Arguably this is not the case, however.
 Indeed it could be argued that mathematical and logical concepts are just that, namely concepts, even those as seemingly natural as, say, the natural numbers.
@@ -85,7 +85,7 @@ Because we accept that the mathematical and logical concepts that we devise are 
 The comparison with scientific method is again instructive and we recall the fact that the hypotheses of both general relativity and quantum electrodynamics match observations to an extraordinary degree. 
 They remain irreconcilable, however, as we have already pointed out, and so which is true?
 The answer has to be neither in any universal sense.
-Therefore perhaps it is best not to say that a particular theory is true at all, and instead simply assert that if the hypotheses of a thoery closely match observation then it is a good theory.
+Therefore perhaps it is best not to say that a particular theory is true at all, and instead simply assert that if the hypotheses of a theory closely match observation then it is a good theory.
 
 Just as we can extend the intuitionistic view of mathematical and logical concepts past scientific and on to general ones, so the intuitionistic notion of truth can also be extended.
 Earlier it was claimed that we think and communicate intuitionistically, for example.
@@ -104,7 +104,7 @@ This is in a sense to communicate classically rather than intuitionistically.
 In reality we segue between these two modes seamlessly and indeed sometimes it would be pedantic to draw a distinction.
 Nonetheless it is important to draw this distinction if only for the reason that the majority of us are vaguely familiar with the classical mode of communication whereas few will be familiar with intuitionistic one.
 
-Finally, we note that to draw attention to the distinction between classical and intuitionistic reasoning is far from pedantry.
+Finally, we note that to draw attention to the distinction between classical and intuitionistic thinking is far from pedantry.
 Modern proof assistants usually operate in one of these two modes.
 Satisfiability solvers are inherently classical, for example, they decide whether statements are true or false.
 On the other hand modern proof assistants largely operate intuitionistically, they derive or deduce statements that hold.
@@ -115,3 +115,5 @@ It covers a suite of software and services together with the the theory that und
 This book is an apologia for the latter and there is a companion book, called The Occam User Manual, that covers the former.
 
 @footnotes
+
+@pageNumber
