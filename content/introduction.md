@@ -14,7 +14,7 @@ So, the first two of the four elephants:
 In my opinion intuitionism and natural deduction together constitute the most significant advance in formal reasoning since the greeks invented logic.
 Intuitionism frees us from the tyranny of classical thinking whilst natural deduction separates reasoning from logic.
 Both are so ubiquitous as to be almost transparent, however, and their importance is seldom acknowledged.
-We think and communicate intuitionistically just as much as we do so classically, however;
+We think and communicate intuitionistically just as much as we do so classically, however.
 and natural deduction is so commonplace in the mathematical sciences, computer science in particular, that it seems to go completely unnoticed.
 So if this book does no more than to raise the awareness of these approaches then it has at least have achieved something.
 Moving on:
