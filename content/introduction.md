@@ -8,8 +8,8 @@ By the way, there is nothing heretical or even original in adopting any of these
 Much of the thinking behind them predates and indeed underlies type theories, for example, and some of it predates set theory.
 So, the first two of the four elephants:
 
-1. Intuitionism, due to Brouwer.
-2. Natural Deduction, due to Gentzen.
+1. Intuitionism, due to Luitzen Brouwer.
+2. Natural Deduction, due to Gerhard Gentzen.
 
 In my opinion intuitionism and natural deduction together constitute the most significant advance in formal reasoning since the greeks invented logic.
 Intuitionism frees us from the tyranny of classical thinking whilst natural deduction separates reasoning from logic.
@@ -19,7 +19,7 @@ and natural deduction is so commonplace in the mathematical sciences, computer s
 So if this book does no more than to raise the awareness of these approaches then it has at least have achieved something.
 Moving on:
 
-3. Structural linguistics, or at least a part thereof, in particular the work of Frege.
+3. Structural linguistics, or at least a part thereof, in particular the work of Gottlob Frege.
 4. Modern grammars, specifically BNF, due to John Backus; regular expressions, due to Stephen Cole Kleene; and Unicode. 
 
 Each of these four elephants has a chapter devoted to it, but because intuitionism suffuses pretty much all of what follows it is worth expanding on it a little further here.
